@@ -1,0 +1,90 @@
+<_>
+   <form_key>KOQ9aAsVwHdm7zt2</form_key>
+   <name>OnTechnology</name>
+   <channel>community</channel>
+   <version_ids>
+      <version_ids>2</version_ids>
+   </version_ids>
+   <summary>Mobile version and checkout reconnecting</summary>
+   <description>Mobile version and checkout reconnecting</description>
+   <license>OSL v3.0</license>
+   <license_uri>http://opensource.org/licenses/osl-3.0.php</license_uri>
+   <version>1.0.0.0</version>
+   <stability>stable</stability>
+   <notes>Check it is success now</notes>
+   <authors>
+      <name>
+         <name>Ontechnology</name>
+      </name>
+      <user>
+         <user>falconcoupe</user>
+      </user>
+      <email>
+         <email>jlivas@ontech.com.au</email>
+      </email>
+   </authors>
+   <depends_php_min>5.2.0</depends_php_min>
+   <depends_php_max>6.0.0</depends_php_max>
+   <depends>
+      <package>
+         <name>
+            <name/>
+            <name>Mage_Core_Modules</name>
+         </name>
+         <channel>
+            <channel/>
+            <channel>Community</channel>
+         </channel>
+         <min>
+            <min/>
+            <min>1.6.0.0</min>
+         </min>
+         <max>
+            <max/>
+            <max>1.7</max>
+         </max>
+         <files>
+            <files>   </files>
+            <files>   </files>
+         </files>
+      </package>
+      <extension>
+         <name>
+            <name>Core</name>
+         </name>
+         <min>
+            <min/>
+         </min>
+         <max>
+            <max/>
+         </max>
+      </extension>
+   </depends>
+   <contents>
+      <target>
+         <target>magelocal</target>
+         <target>magecommunity</target>
+         <target>mageetc</target>
+      </target>
+      <path>
+         <path/>
+         <path>OnTechnology</path>
+         <path>modules/OnTechnology_All.xml</path>
+      </path>
+      <type>
+         <type>file</type>
+         <type>dir</type>
+         <type>file</type>
+      </type>
+      <include>
+         <include/>
+         <include/>
+         <include/>
+      </include>
+      <ignore>
+         <ignore/>
+         <ignore/>
+         <ignore/>
+      </ignore>
+   </contents>
+</_>

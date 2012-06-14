@@ -1,0 +1,7 @@
+AuthName " statistics"
+AuthType Basic
+AuthUserFile /home/ezimobile/domains/mag1.ezimobile.biz/.stats-htpasswd
+require valid-user
+<Files .stats-htpasswd>
+deny from all
+</Files>

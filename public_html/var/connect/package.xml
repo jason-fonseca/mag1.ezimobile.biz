@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+    <name>OnTechnology_Test4</name>
+    <version>1.0.0.0</version>
+    <stability>stable</stability>
+    <license uri="http://opensource.org/licenses/osl-3.0.php">OSL v3.0</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>Mobile application</summary>
+    <description>Mobile application</description>
+    <notes>Mobile application</notes>
+    <authors><author><name>ezimerchant</name><user>falconcoupe</user><email>jlivas@ontech.com.au</email></author></authors>
+    <date>2012-05-17</date>
+    <time>11:01:20</time>
+    <contents><target name="magecommunity"><dir name="OnTechnology"><dir name="Checkout"><dir name="controllers"><dir name="Checkout"><file name="CartController.php" hash="0c2d03b00e8b796308decd532f0a7edd"/><file name="OnepageController.php" hash="8083177dca289c04e66807163b223772"/><file name="simple_html_dom.php" hash="e956e77d0197afa28b8c054b9ed9a771"/><file name="system.xml" hash="b0b0765bc3627d785296a7053f167952"/></dir></dir><dir name="etc"><file name="config.xml" hash="1cfe7ea4c1febb8feca2eb718d899555"/></dir></dir><dir name="Ezimerchant"><dir name="Block"><dir name="Paystep"><file name="Form.php" hash="da582046e00055c963383aeef61cc472"/></dir></dir><dir name="Helper"><file name="Data.php" hash="dc2ac95acc26bde4e59cfd3bb0b66bdc"/></dir><dir name="Model"><dir name="Config"><file name="CustomerGroupAccess.php" hash="106115420e07b43fb8f661a4dbf1a0fc"/><file name="CustomerGroups.php" hash="9f99902a834106da10d8bd85dfca9585"/></dir><dir name="Paystep"><file name="PaymentAction.php" hash="854d96febec7b085fc01f1e78254cc87"/></dir><file name="Paystep.php" hash="02581fd927f4fec8cd6baf152ab2240d"/><dir name="Resource"><dir name="Mysql4"><file name="Setup.php" hash="8652118e319615cd9c00a7a04e47dfe8"/></dir></dir></dir><dir name="controllers"><file name="PaystepController.php" hash="a2a3c8fd2bc21c8b3066089daed30e51"/></dir><dir name="etc"><file name="config.xml" hash="0a03823c8fc85910121749e87635b2c3"/><file name="system.xml" hash="cffdf1c89fee07377504a352a16d377d"/></dir><dir name="sql"><dir name="ezimerchant_setup"><file name="mysql4-install-1.0.php" hash="eac7024d3f8aa995b45a085ae8c9372f"/></dir></dir></dir><dir name="Mobile"><dir name="Controller"><dir name="Varien"><dir name="Router"><file name="Standard.php" hash="ddec5476d372f5260119eb4e230e0ae4"/></dir></dir></dir><dir name="etc"><file name="config.xml" hash="c1465977bec8ccb4de3b0b472262537e"/></dir></dir><dir name="Paypal"><dir name="controllers"><dir name="Paypal"><file name="ExpressController.php" hash="aa18521ba779fbe0bbadbd8c21176f1b"/></dir></dir><dir name="etc"><file name="config.xml" hash="871f6bdd46135d7d53a70d2046062607"/></dir></dir><dir name="Sales"><dir name="Model"><dir name="Order"><file name="Creditmemo.php" hash="6a85a5efd7a8166a50939c7fe8040265"/></dir></dir><dir name="etc"><file name="config.xml" hash="de7659ab764533ac87c8a5fa2bd255f1"/></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="OnTechnology_All.xml" hash="0d8a87b3af1cd99e9081bd5e0549a6ee"/></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.2.0</min><max>6.0.0</max></php></required></dependencies>
+</package>

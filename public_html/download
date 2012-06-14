@@ -1,0 +1,2699 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+    <!-- meta_refresh -->
+        <title>Magento - Download Magento  - eCommerce Software for Growth</title>
+            <meta name="description" content="Magento is the eCommerce software platform for growth that promises to revolutionize the industry. Its modular architecture and unprecedented flexibility means your business is no longer constrained by your eCommerce platform. Magento is total control" />
+            <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <meta name="keywords" content="open source ecommerce, open-source ecommerce, shopping cart, e-commerce, online business, commerce, software, platform, framework, ecommerce software, ecommerce platform" />
+    <script type="text/javascript" src="http://www.magentocommerce.com/proxy/proxy.php/x.js?z=7&amp;c=auto&amp;f=js_new/mootools.js,js_new/mootabs.js,js_new/slimbox.js,js_new/js.js,js_new/comments_check.js,js_new/swfobject2.js,js_new/swfobject.js,js/common.js,js_new/multibox.js,js_new/multibox-overlay.js" ></script>
+    <meta name="verify-v1" content="Wp0p5d/oTYiNbcLrMd5ZZyIUwFkqKVV7IvsOHZmD0BY=" />
+    <link rel="shortcut icon" href="http://www.magentocommerce.com/favicon.ico" type="image/x-icon" />
+    <link rel="alternate" type="application/rss+xml" title="Magento RSS Feed" href="http://feeds.feedburner.com/magento" />
+    
+    
+
+    <link rel="stylesheet" type="text/css" href="http://www.magentocommerce.com/css/boxes.css?v=18" media="screen"/>
+<link rel="stylesheet" type="text/css" href="http://www.magentocommerce.com/css/universal-nav.css?v=2" media="screen"/>
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="http://www.magentocommerce.com/css/slimbox.css" media="screen"/>
+<link rel="stylesheet" type="text/css" href="http://www.magentocommerce.com/css/multibox.css" media="screen"/>
+<link rel="stylesheet" type="text/css" href="http://www.magentocommerce.com/css/stratus.css?v=2" media="screen"/>
+
+<link rel="stylesheet" type="text/css" href="http://www.magentocommerce.com/css/multibox-download.css" media="screen"/>
+
+<link rel="stylesheet" type="text/css" href="http://www.magentocommerce.com/css/clean-popup.css" media="screen"/>
+
+
+
+    <script type="text/javascript">
+    <!--
+        var rating_url = 'http://www.magentocommerce.com/';
+        function toggleMemberMenu(flag){
+            var menuContainer = document.getElementById("mMenu");
+            var titleBg = document.getElementById("member-title-bg");
+            var bgStart = document.getElementById("member-title-bg-st");
+
+            if(menuContainer.style.display == "none") {
+                menuContainer.style.display = "block";
+                titleBg.className = "member-title-bg" + flag + "-hov";
+                bgStart.className = "member-title-bg-st-hov";
+            }else{
+                menuContainer.style.display = "none";
+                titleBg.className = "member-title-bg";
+                bgStart.className = "";
+            }
+        }
+    //-->
+
+function horizScroller(opt)
+{
+   var d = 0;
+   opt.delay = opt.delay || 50;
+   opt.dist = opt.dist || 2;
+   opt.leftEl.onmouseover = function() { d = -opt.dist; scroll(); }
+   opt.leftEl.onmouseout = function() { d = 0 }
+   opt.rightEl.onmouseover = function() { d = opt.dist; scroll(); }
+   opt.rightEl.onmouseout = function() { d = 0 }
+
+    function scroll()
+   {
+       if (!d) return;
+       var x = opt.contentEl.scrollLeft+d, stop = false, rightBoundary = opt.contentEl.scrollWidth-opt.contentEl.offsetWidth;
+       if (x<0) {
+           addClassName(opt.leftEl, 'disabled');
+           x = 0;
+           stop = true;
+       } else {
+           removeClassName(opt.leftEl, 'disabled');
+       }
+       if (x>=rightBoundary) {
+           addClassName(opt.rightEl, 'disabled');
+           x = rightBoundary;
+           stop = true;
+       } else {
+           removeClassName(opt.rightEl, 'disabled');
+       }
+       opt.contentEl.scrollLeft = x;
+       if (stop) return;
+       window.setTimeout(scroll, opt.delay);
+   }
+
+   function addClassName(el, className)
+   {
+       el.className = el.className.replace(new RegExp(' ?'+className+'|$'), ' '+className);
+   }
+
+   function removeClassName(el, className)
+   {
+       el.className = el.className.replace(new RegExp(' ?'+className+'( |$)'), '$1');
+   }
+}
+    function openSearchWindow(){
+        var srchField = $('top_search');
+        var srchQuery = '';
+        if(srchField.value != ''){
+            srchQuery = str_replace(' ', '+',srchField.value);
+            window.open('http://www.google.com/search?source=ig&q='+srchQuery+'+site%3Amagentocommerce.com');
+        }
+    }
+
+
+
+    </script>
+
+
+    <style type="text/css" media="all">
+        /*<![CDATA[*/
+            
+        /*]]>*/
+    </style>
+
+    <!--[if lt IE 8]>
+      <link rel="stylesheet" type="text/css" href="http://www.magentocommerce.com/css/iestyles.css" media="all" />
+    <![endif]-->
+    <!--[if lt IE 7]>
+        <style type="text/css">.showcase-box .content {height:210px;} </style>
+        <script type="text/javascript" src="http://www.magentocommerce.com/js_new/ds-sleight.js"></script>
+        <script type="text/javascript" src="http://www.magentocommerce.com/js_new/ie_hover.js" ></script>
+            <![endif]-->
+
+<style type="text/css">
+.enterprise-feature-preview { width:500px !important; }
+.enterprise-feature-preview .col {width:32%;}
+.enterprise-feature-preview .col img {width:150px;}
+.enterprise-feature-preview .cta { font-size:14px; text-align:right; }
+.homepage-bottom .quotes h3 { color:#000; font-weight:normal; font-size:16px; }
+.home-main .magento-benefits img { float:right; border:1px solid #bababa; margin:0 0 5px 15px; }
+.homepage-bottom .quotes h3 { display:none; margin-bottom:7px; }
+.homepage-bottom .quotes .content { border:1px solid #ccc; background:#fcfcfc; padding:10px 20px 0 20px; }
+.quotes .top-facade,
+.homepage-bottom .quotes blockquote { margin:0; padding:0 0 15px 0; background:none; border:none; color:#357110; font:13px/1.5em Georgia, Times New Roman, serif; }
+.homepage-bottom {margin-bottom:28px;}
+.homepage-bottom h3 { margin-bottom:10px; color:#666; font-size:11px; font-weight:normal; text-transform:uppercase; }
+.homepage-bottom a {text-decoration:underline;}
+.homepage-bottom .col-1 li, .homepage-bottom .col-3 li { list-style:none; margin:0 0 15px 0; }
+.homepage-bottom .col-2 li { list-style:none; margin:0 0 8px 0; }
+.homepage-bottom .download-button { margin-bottom:15px; height:38px; background:url(../img/home_download_bg.gif) no-repeat; text-align:center; padding:10px 0; }
+.homepage-bottom .download-button big {font-size:18px;}
+.page-product-enterprise .pricing {margin-top:20px;}
+.post-job dl { margin:5px 0; }
+
+/*** new **/
+.kb-notes { border: 1px #DBCBA5 solid; background: #F9F2E1; padding: 5px; margin:5px 0; width:100%; }
+
+/* HIDE BREADCRUMBS */
+.breadcrumbs { visibility:hidden !important; }
+</style>
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime();</script>
+</head>
+<body >
+<div class="unav-wrap">
+    <div class="unav">
+        <a href="http://www.magentocommerce.com/demo" title="Try the Demo" class="header-demo-button"><img src="http://www.magentocommerce.com/img/unav/try-the-demo.png" alt="Try the Demo" /></a>
+        <ul class="left">
+            <li class="home">
+                <a href="http://www.magentocommerce.com/" id="homelink">Home</a>
+                <div style="visibility:hidden;" class="unav-tip" id="unavtip"><span>Visit Magento.com</span></div>
+            </li>
+            <li><a class="active" href="http://www.magentocommerce.com/download">Community</a></li>
+            <li><a href="http://www.magentocommerce.com/product/enterprise-overview">Enterprise</a></li>
+            <li><a href="http://go.magento.com/">Go</a></li>
+            <li><a href="http://www.magentocommerce.com/services/training">Magento U</a></li>
+            <li class="connect"><a href="http://www.magentocommerce.com/magento-connect">Connect</a></li>
+            <li><a href="http://www.imagineecommerce.com/">Imagine</a></li>
+        </ul>
+        <ul class="right" id="right_nav_block">
+            <li><a href="http://www.magentocommerce.com/support/overview">Support</a></li>
+            <li class="search" id="search_tab">
+                <a class="umenu-tabs" id="search_lnk" href="#"><span><span><strong>Search</strong></span></span></a>
+                <div class="search-menu">
+                    <div class="menu" id="search_top_menu" style="visibility:hidden;">
+                        <div class="search-form">
+                            <h2>Search the Magento Web site</h2>
+                            <form method="post" action="#" id="unav_search">
+                                <fieldset class="top-search-form">
+                                    <input type="text" name="q" id="top_search" class="input-topbg" style="width:185px;" title="Search by keyword" value="Search by keyword" onFocus="if(this.value=='Search by keyword')this.value='';" style="width:185px;" onBlur="if(this.value=='')this.value='Search by keyword';"/>
+                                    <input type="submit" value="Search" class="form-btn" /><!--  onclick="openSearchWindow()" -->
+                                    <!--div class="or">or</div-->
+                                    <!--div class="ma-box">
+                                        <h3>Magento <em>answers</em></h3>
+                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor.</p>
+                                        <a href="http://www.magentocommerce.com/answers">Get Answers Now</a>
+                                    </div-->
+                                </fieldset>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+                <em id="hover_line"><span><span></span></span></em>
+            </li>
+                        <li class="log-in" id="log_in_tab">
+                <a class="umenu-tabs" id="log_in_lnk" href="#"><span><span><strong>Log In</strong></span></span></a>
+                <div class="log-in-menu">
+                    <div class="menu" id="top_menu" style="visibility:hidden;">
+                        <div class="login-form">
+                            <form method="post" action="https://www.magentocommerce.com/products/customer/account/loginPost/">
+                                <p>
+                                    <label for="login">Username or Email</label> 
+                                    <div class="input-box">
+                                        <input type="text" class="input-text" id="login" name="login[username]"/>
+                                    </div>
+                                </p> 
+                                <p>
+                                    <label for="password">Password:</label>
+                                    <div class="input-box">
+                                        <input type="password" class="input-text" id="password" name="login[password]" autocomplete="off" />
+                                    </div>
+                                </p>
+                                <input type="hidden" name="login[back_url]" value="" id="login_back_url"/>
+                                <script type="text/javascript">window.addEvent("domready", function() {$('login_back_url').value = window.location.pathname;});</script>                                <div class="col2-set">
+                                    <div class="col-1">
+                                        <!-- span class="fancy-chb-wrap"><input class="fancy-chb" type="checkbox" id="remember_pass" value="1" name="auto_login" /></span>
+                                        <label for="remember_pass">Remember Password</label -->
+                                        <!-- label for="hidden_user">Show my name in the online users list&nbsp;&nbsp;</label><input type="checkbox" id="hidden_user" checked="checked" value="1" name="anon"/ -->
+                                        <p style="margin-top:5px;"><a href="http://www.magentocommerce.com/products/customer/account/forgotpassword/">Forgot Password</a></p>
+                                    </div>
+                                    <div class="col-2">
+                                        <button type="submit" class="but-login">Login</button>
+                                    </div>
+                                </div>
+                                <div class="or">or</div>
+                                <a href="http://www.magentocommerce.com/products/customer/account/create/" class="register-but">Register</a>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+                                <script type="text/javascript">
+                    $$('.login-form .input-text').each(function(inp){
+                        inp.addEvent('focus', function(e){inp.getParent('div').addClass('box-over');});
+                        inp.addEvent('blur', function(e){inp.getParent('div').removeClass('box-over');});
+                    });
+                </script>
+                                <em id="hover_line"><span><span></span></span></em>
+            </li>
+                        
+        </ul>
+    </div>
+</div>
+<script type="text/javascript">
+    if(!$('head_cart_link')) $('right_nav_block').addClass('login-no-cart');
+
+    var eff_duration = 300;
+    var menuSlide = new Fx.Slide('top_menu', {
+        duration:eff_duration,
+        onComplete:function(){
+            if($('top_menu').style.visibility == 'hidden'){
+                $('top_menu').style.visibility = 'visible';
+                $('top_menu').effect('opacity', {duration: 0}).start(1,0);
+            } 
+        }
+    });
+    menuSlide.slideOut();
+    
+    var menuSlide2 = new Fx.Slide('search_top_menu', {
+        duration:eff_duration,
+        onComplete:function(){
+            if($('search_top_menu').style.visibility == 'hidden'){
+                $('search_top_menu').style.visibility = 'visible';
+                $('search_top_menu').effect('opacity', {duration: 0}).start(1,0);
+            } 
+        }
+    });
+    menuSlide2.slideOut();
+
+    $('log_in_lnk').addEvent('click', function(e){
+            new Event(e).stop();
+            if($('log_in_tab').hasClass('active')){
+                $('log_in_tab').removeClass('active');
+                menuSlide.slideOut();
+                $('top_menu').effect('opacity', {duration: eff_duration}).start(1,0);
+            }else{
+                $('search_tab').removeClass('active');
+                menuSlide2.slideOut();
+                $('search_top_menu').effect('opacity', {duration: eff_duration}).start(1,0);
+                
+                $('log_in_tab').addClass('active');
+                menuSlide.slideIn();
+                $('top_menu').effect('opacity', {duration: eff_duration}).start(0,1);
+            }
+        }.bind(this)
+    );
+
+    $('search_lnk').addEvent('click', function(e){
+            new Event(e).stop(); 
+            if($('search_tab').hasClass('active')){
+                $('search_tab').removeClass('active');
+                menuSlide2.slideOut();
+                $('search_top_menu').effect('opacity', {duration: eff_duration}).start(1,0);
+            }else{
+                $('log_in_tab').removeClass('active');
+                menuSlide.slideOut();
+                $('top_menu').effect('opacity', {duration: eff_duration}).start(1,0);
+                
+                $('search_tab').addClass('active');
+                menuSlide2.slideIn();
+                $('search_top_menu').effect('opacity', {duration: eff_duration}).start(0,1);
+            }
+        }.bind(this)
+    );
+    
+    $$('.fancy-chb').each(function(chbox){
+        if(chbox.checked == true){chbox.getParent('span').addClass('fancy-chb-wrap-over');}
+        chbox.addEvent('change', function(e){
+            if(chbox.checked == true){chbox.getParent('span').addClass('fancy-chb-wrap-over');}else{chbox.getParent('span').removeClass('fancy-chb-wrap-over');}
+        });
+    });
+    $('unavtip').effect('opacity', {duration: 0}).start(1,0);
+    $('unavtip').style.visibility = 'visible';
+    $('homelink').addEvent('mouseover', function(e){
+        $('unavtip').effect('opacity', {duration: 150}).start(0,1);
+    }.bind(this));
+    $('homelink').addEvent('mouseout', function(e){
+        $('unavtip').effect('opacity', {duration: 150}).start(1,0);
+    }.bind(this));
+    
+    var refnQuery = '';    
+    
+        
+        
+    
+    
+    $('unav_search').addEvent('submit', function(e){
+        new Event(e).stop();
+        var srchField = $('top_search');
+        var srchQuery = '';
+        if(srchField.value != '' && srchField.value != srchField.title){
+            srchQuery = str_replace(' ', '+',srchField.value);
+            srchField.value = '';
+            document.location = 'http://www.magentocommerce.com/search/results/?q=' + srchQuery + (refnQuery ? '#' + refnQuery : '');
+            $('search_tab').removeClass('active');
+            menuSlide2.slideOut();
+            $('search_top_menu').effect('opacity', {duration: eff_duration}).start(0);
+        }
+    });
+
+</script>
+
+    <ul class="no-show">
+        <li><a href="#nav"><strong>Skip to site navigation &raquo;</strong></a></li>
+        <li><a href="#content"><strong>Skip to main content &raquo;</strong></a></li>
+        <li><a href="#footer"><strong>Skip to footer content &raquo;</strong></a></li>
+    </ul>
+    <div class="top-wrapper">
+        <div class="top">
+            <fieldset class="top-search">
+                <form method="post" action="http://www.magentocommerce.com/"  >
+<div>
+<input type="hidden" name="ACT" value="19" />
+<input type="hidden" name="XID" value="" />
+<input type="hidden" name="RP" value="search/results" />
+<input type="hidden" name="NRP" value="search/noresults" />
+<input type="hidden" name="RES" value="" />
+<input type="hidden" name="status" value="" />
+<input type="hidden" name="weblog" value="features|Homepage|knowledge_base|blog|Roadmap|Screenshots|trademark|Videos|whymagento" />
+<input type="hidden" name="search_in" value="" />
+<input type="hidden" name="where" value="all" />
+<input type="hidden" name="site_id" value="1" />
+</div>
+
+
+                <input type="hidden" name="search_where" value="download" />
+                <input type="text" name="keywords" id="top_search" class="input-topbg" style="width:170px;" value="Search entire site" onFocus="if(this.value=='Search entire site')this.value='';" onBlur="if(this.value=='')this.value='Search entire site';"/>
+                <!-- <input type="submit" value="Search" class="form-btn" /> -->
+                <input type="button" value="Search" class="form-btn" onclick="openSearchWindow()" />
+                </form>
+            </fieldset>
+            <!-- <div class="head-callout"><a href="http://www.magentocommerce.com/services/training">Get expert training with Magento U</a></div> -->
+
+<!-- Preload for Homepage Banner-->
+<img src="http://www.magentocommerce.com/images/uploads/win2009_home_slide1.jpg" width="1" height="1" class="f-left" style="visibility:hidden;"/>
+<img src="http://www.magentocommerce.com/images/uploads/win2009_home_slide2.jpg" width="1" height="1" class="f-left" style="visibility:hidden;"/>
+<img src="http://www.magentocommerce.com/img/win2009_home_slide3.jpg" width="1" height="1" class="f-left" style="visibility:hidden;"/>
+<img src="http://www.magentocommerce.com/images/uploads/win2009_home_slide4.jpg" width="1" class="f-left" height="1" style="visibility:hidden;"/>
+<img src="http://www.magentocommerce.com/images/uploads/win2009_home_slide_enter.jpg" width="1" class="f-left" height="1" style="visibility:hidden;"/>
+
+    <ul class="top-links">
+                    <li style="background-image:none;padding-right:0;">
+                <div id="member-title-bg" class="member-title-bg">
+                    <div id="member-title-bg-st"><a href="javascript:void(0);" style="font-weight:normal;font-size:12px;" onclick="toggleMemberMenu('2');">Login</a></div>
+                </div>
+                <div class="login-menu" id="mMenu" style="display:none;">
+                    <form method="post" action="https://www.magentocommerce.com/products/customer/account/loginPost/">
+<p><label for="login">Login:&nbsp;&nbsp;</label> 
+<input type="text" style="width: 142px;" class="input-topbg" id="login" name="login[username]"/></p> 
+<p><label for="password">Password:&nbsp;&nbsp;</label> 
+<input type="password" style="width: 142px;" class="input-topbg" id="password" name="login[password]" autocomplete="off"/></p> 
+<input type="hidden" name="login[back_url]" value="" id="login_back_url"/>
+<script type="text/javascript">
+		window.addEvent("domready", function() {$('login_back_url').value = window.location.href;});</script>
+<p>
+      	
+                    	<label for="hidden_user">Show my name in the online users list&nbsp;&nbsp;</label><input type="checkbox" id="hidden_user" checked="checked" value="1" name="anon"/> 
+                       </p> 
+                       <p><input type="submit" class="form-btn" value="Login"/></p> 
+                    </form>
+                    <!-- p><a href="http://www.magentocommerce.com/boards/member/forgot_password/">Forgot password?</a></p -->
+                    <p><a href="http://www.magentocommerce.com/products/customer/account/forgotpassword/">Forgot password?</a></p>
+                </div>
+            </li>
+            <li style="padding-left:2px;"><a href="http://www.magentocommerce.com/products/customer/account/create/">Register</a></li>
+                    <li><a href="http://www.magentocommerce.com/jobs">Job Board</a></li>
+            <li><select name="#" class="lang-sel" onchange="document.location=this.value" style="width:100px !important;">
+    <option value="http://www.magentocommerce.com/blog">English</option>
+    <option value="http://www.magentocommerce.com/de">Deutsch</option>
+    <option value="http://www.magentocommerce.com/ru">Русский</option>
+    <option value="http://www.magentocommerce.com/fr">Français</option>
+    <option value="http://www.magentocommerce.com/pl">Polski</option>
+    <option value="http://www.magentocommerce.com/es">Español</option>
+    <option value="http://www.magentocommerce.com/ua">Українською</option>
+    <!--option value="http://www.magentocommerce.com/vi">Tiếng Việt</option -->
+    <!--option value="http://www.magentocommerce.com/he">עברית</option -->
+    <!--option value="http://www.magentocommerce.com/it">Italiano</option -->
+    <!--option value="http://www.magentocommerce.com/lt">Lietuviškai</option -->
+    <!--option value="http://www.magentocommerce.com/dk">Dansk</option -->
+    <!--option value="http://www.magentocommerce.com/pt_BR">Português</option -->
+    <!--option value="http://www.magentocommerce.com/hu">Hungarian</option -->
+</select></li>
+    </ul>
+<!-- <small style="line-height: 2.6em;"><img src="http://www.magentocommerce.com/images/uploads/callback_icon.png" alt="Call-back icon" class="v-middle"/>&nbsp; Enterprise Sales: <strong>+1 310.594.7638</strong> (N. America) &nbsp;&nbsp;<strong>+44 20.3393.8364 begin_of_the_skype_highlighting              +44 20.3393.8364      end_of_the_skype_highlighting --> <!-- +44 20.3286.4137 --> <!--</strong> (UK)</small> -->
+<!-- <p class="spot-note"><strong>Now Available:</strong> <a href="http://www.magentocommerce.com/support/magento-user-guide-book">The Official Magento User Guide - Download Now!</a></p> -->
+<!--small><strong><a href="http://sf-magento.eventbrite.com/">San Francisco Meetup</a></strong> Monday, March 23rd, 2009 7:30 PM, <a href="http://sf-magento.eventbrite.com/">Join Us (RSVP)</a></small-->
+
+
+        </div>
+    </div>
+    <div class="wrapper">
+            <div class="header">
+            <h1 class="logo"><a href="http://www.magentocommerce.com/">Magento</a></h1>
+            <h2 class="head-download"><a href="http://www.magentocommerce.com/" class="f-left">eCommerce Software for Online Growth</a><!--<strong class="f-left"><a href="http://www.magentocommerce.com/downloads">Download</a></strong>--></h2>
+
+            <div class="head-links" style="padding:0;">
+
+                <ul>
+                    <li class="store-menu-item"><a href="http://www.magentocommerce.com/products/checkout/cart/" class="store-link"><strong>Cart:</strong></a></li>
+                    <li class="demo"><a href="http://www.magentocommerce.com/demo">Try the Demo</a></li>
+                    <li class="contact"><a href="http://www.magentocommerce.com/company/contact-us/">Contact Us</a></li>
+                </ul>
+            </div>
+            <div class="clear"></div>
+            <div class="header-addons">
+                <!-- !!!!http://www.magentocommerce.com/!!!-->
+<ul id="nav">
+    <li class="nav-except nav-start">&nbsp;</li>
+    <li>
+        <a href="javascript:void(0);" class="default">Products</a>
+        <ul style="margin-left:-8px;">
+            <li><a href="http://www.magentocommerce.com/product/features">Features</a></li>
+            <li class="sub"><a href="javascript:void(0);">Editions</a>
+                <ul style="width:200px;">
+                   <li><a href="http://www.magentocommerce.com/product/enterprise-overview">Enterprise Edition</a></li>
+                   <li><a href="http://www.magentocommerce.com/product/community-edition">Community Edition</a></li>
+		   <li><a href="http://www.magentocommerce.com/product/magento-go">Magento Go</a></li>	
+                   <li><a href="http://www.magentocommerce.com/product/compare">Compare</a></li>
+                   <li class="last"><a href="http://www.magentocommerce.com/product/enterprise-community-faqs">Enterprise v. Community FAQs</a></li>
+                </ul>
+            </li>
+            <li class="sub"><a href="javascript:void(0);">Solutions</a>
+                <ul style="width:200px;">
+                   <li><a href="http://www.magentocommerce.com/product/emerging-business">Emerging Business</a></li>
+                   <li><a href="http://www.magentocommerce.com/product/enterprise-level">Enterprise Level</a></li>
+                   <li><a href="http://www.magentocommerce.com/product/hosted-solutions">Hosted Solutions</a></li>
+                   <li class="last"><a href="http://www.magentocommerce.com/product/deployed-solutions">Deployed Solutions</a></li>
+                </ul>
+            </li>
+            <li><a href="http://www.magentocommerce.com/product/mobile">Mobile Commerce</a></li>
+            <li><a href="http://www.magentocommerce.com/demo">Demo</a></li>
+            <li><a href="http://www.magentocommerce.com/media/screenshots">Screenshots</a></li>
+            <!-- li><a href="http://www.magentocommerce.com/roadmap">Roadmap</a></li -->
+            <li><a href="http://www.magentocommerce.com/magento-connect">Extensions</a></li>
+            <li><a href="http://www.magentocommerce.com/company/pci-compliance">PCI Compliance</a></li>
+            <li class="last"><a href="http://www.magentocommerce.com/product/faq">FAQ</a></li>
+        </ul>
+    </li>
+    <li><a href="http://www.magentocommerce.com/consulting">Consulting</a></li>
+    <li><a href="javascript:void(0);" class="default">Training</a>
+        <ul>
+            <li><a href="http://www.magentocommerce.com/services/training">Training</a></li>
+	    <li class="last"><a href="/certification/">Certification</a></li>
+        </ul>
+    </li>
+    <!-- li><a href="javascript:void(0);" class="default">Services</a>
+        <ul>
+            <li><a href="http://www.magentocommerce.com/services">Expert Consulting</a></li>
+            <li class="last"><a href="http://www.magentocommerce.com/services/training">Training</a></li>
+        </ul>
+    </li -->
+    <li>
+        <!-- a href="http://www.magentocommerce.com/support/overview">Support</a -->
+    </li>
+    <li>
+        <a href="javascript:void(0);" class="default">Resources</a>
+        <ul>
+            <li><a href="http://www.magentocommerce.com/knowledge-base">Knowledge Base</a></li>
+            <li><a href="http://www.magentocommerce.com/media/webinars">Webinars</a></li>
+            <li><a href="http://www.magentocommerce.com/media/screencasts">Screencasts</a></li>
+            <li><a href="http://www.magentocommerce.com/support/magento-user-guide-book">Magento User Guide Book</a></li>
+            <li><a href="http://www.magentocommerce.com/design_guide">Designer's Guide</a></li>
+            <li><a href="http://docs.magentocommerce.com">Technical Docs (phpdoc)</a></li>
+            <li><a href="http://www.magentocommerce.com/support/magento_core_api">Magento Core API</a></li>
+            <li><a href="http://www.magentocommerce.com/whitepaper/">Magento White Papers</a></li>
+            <li class="last"><a href="http://www.magentocommerce.com/system-requirements">System Requirements</a></li>
+        </ul>
+    </li>
+    <li>
+        <a href="javascript:void(0);" style="color:#ccc;" class="default">Download</a>
+        <ul>
+            <li><a href="http://www.magentocommerce.com/download">Community Edition</a></li>
+            <li><a href="http://www.magentocommerce.com/svn">SVN</a></li>
+            <li><a href="http://www.magentocommerce.com/download/release_notes">Release Notes</a></li>
+            <li class="last"><a href="http://www.magentocommerce.com/download/diff">Diff Files</a></li>
+        </ul>
+    </li>
+    <li>
+        <a href="javascript:void(0);" class="default">Customers</a>
+        <ul>
+            <li><a href="http://www.magentocommerce.com/casestudies">Case Studies</a></li>
+            <li><a href="http://www.magentocommerce.com/media/interviews">Interviews</a></li>
+            <li class="last"><a href="http://www.magentocommerce.com/showcase">Showcase</a></li>
+        </ul>
+    </li>
+    <li>
+        <a href="http://www.magentocommerce.com/partners/" class="default">Partners</a>
+        <ul>
+            <li> <a href="http://www.magentocommerce.com/partners">Partners Overview</a> </li>
+            <li><a href="http://www.magentocommerce.com/partners/solution">Solution Partners</a></li>
+            <li class="last"><a href="http://www.magentocommerce.com/partners/industry">Industry Partners</a></li>
+        </ul>
+    </li>
+    <li>
+        <a href="javascript:void(0);" class="default">Company</a>
+        <ul>
+            <li><a href="http://www.magentocommerce.com/company/">About Us</a></li>
+            <li><a href="http://www.magentocommerce.com/company/leadership">Leadership</a></li>
+            <li><a href="http://www.magentocommerce.com/company/inthepress">In The Press</a></li>
+            <li><a href="http://www.magentocommerce.com/company/press-releases">Press Releases</a></li>
+            <li><a href="http://www.magentocommerce.com/company/events">Events</a></li>
+            <li><a href="http://www.magentocommerce.com/company/media">Media Resources</a></li>
+            <li><a href="http://www.magentocommerce.com/company/newsletter">Newsletter</a></li>
+            <li><a href="http://www.magentocommerce.com/media/videos">Videos</a></li>
+            <li><a href="http://www.magentocommerce.com/company/careers">Careers &amp; Culture</a></li>
+            <li class="last"><a href="http://www.magentocommerce.com/company/contact-us">Contact Us</a></li>
+        </ul>
+    </li>
+    <li>
+        <a href="http://www.magentocommerce.com/blog" style="padding-right:0;background:none;">Blog</a>
+    </li>
+    <li class="menu-bl2red nav-except">&nbsp;</li>
+    <li class="red-bg">
+        <a href="javascript:void(0);" style="background:none;padding-left:0;" class="default" id="comm_tab">Community</a>
+        <ul>
+            <li><a href="http://www.magentocommerce.com/answers/">Magento Answers <sup style="font-size:8px;">beta</sup></a></li>
+            <li><a href="http://www.magentocommerce.com/boards/">Forum</a></li>
+            <li><a href="http://www.magentocommerce.com/wiki">Wiki</a></li>
+            <li><a href="http://www.magentocommerce.com/translations">Translations</a></li>
+            <li><a href="http://www.magentocommerce.com/bug-tracking">Bug Tracking</a></li>
+            <li><a href="http://www.magentocommerce.com/roadmap/issue-roadmap">Issue Roadmap</a></li>
+           <li class="last"><a href="http://www.magentocommerce.com/jobs">Job Board</a></li>
+        </ul>
+    </li>
+    <!-- li class="red-bg">
+        <a href="http://www.magentocommerce.com/magento-connect" style="padding-right:0;background:none;">Magento Connect</a>
+    </li -->
+    <li class="menu-red2wh nav-except">&nbsp;</li>
+</ul> <!-- navigation -->                
+            </div>
+        </div>
+    
+
+
+<!-- ClickTale Top part -->
+<script type="text/javascript">
+var WRInitTime=(new Date()).getTime();
+</script>
+<div class="main two-col-set">
+<script language="JavaScript" type="text/javascript">
+function changeDownloadTab(tab){
+    if($('Overlay')) $('Overlay').style.height = '1px';
+    var tabs = new Array("download-simple", "download-archives", "download-getstarted");
+    for(i=0;i<tabs.length;i++){
+        document.getElementById(tab).style.display = "block";
+        document.getElementById(tab + "-tab").className = "hover";
+        if(tab != tabs[i]){
+            document.getElementById(tabs[i]).style.display = "none";
+            document.getElementById(tabs[i] + "-tab").className = "";
+        }
+    }
+    if($('Overlay')) $('Overlay').style.height = window.getScrollHeight()+'px';
+}
+</script>
+<script type="text/javascript" src="http://www.magentocommerce.com/js_new/fValidator.js"></script><div id="content" class="col-main download">
+    <ul class="breadcrumbs">
+        <li class="first"><a href="http://www.magentocommerce.com/">Home</a></li>
+        <li>Download Magento</li>
+    </ul>
+    <div>
+<!-- a href="http://bs.serving-sys.com/BurstingPipe/adServer.bs?cn=tf&c=20&mc=click&pli=1590728&PluID=0&ord=[timestamp]" -->
+<h2 class="page-head">Download Magento Community</h2>
+<!-- /a -->
+    </div>
+    <!-- p style="margin-top:-5px; margin-bottom:15px; position:relative;"><a href="http://www.magentocommerce.com/product/enterprise-edition"><img src="http://www.magentocommerce.com/images/uploads/enterprise_co1.jpg" alt="Magento Enterprise Edition Now Available!"/></a></p -->
+
+    <div class="download-magento"><div class="download-magento-cont">
+        <ul class="download-tabs">
+            <li><a href="javascript:void(0);" onclick="changeDownloadTab('download-simple')" id="download-simple-tab" class="hover">Download</a></li>
+            <li><a href="javascript:void(0);" onclick="changeDownloadTab('download-archives')" id="download-archives-tab">Release Archives</a></li>
+            <li><a href="javascript:void(0);" onclick="changeDownloadTab('download-getstarted')" id="download-getstarted-tab">How to Get Started</a></li>
+        </ul><div class="clear"></div>
+        <div id="download-simple">
+            <div class="download-releases">
+    <h3 class="light-grey-head">Full Release</h3>
+    <ul class="release-list">
+        <li class="alt">
+            <p>This is the latest stable release of the Magento Community Edition. <a href="http://www.magentocommerce.com/download/release_notes#Release%20Notes%20-%20Magento%201.6.2.0%20(Jan%2011,%202012)">Learn More &raquo;</a></p>
+            <div class="col2-set">
+                <div class="col-1">
+                    <strong>ver 1.6.2.0</strong> - Added January 11, 2012
+                    &nbsp;<a href="http://www.magentocommerce.com/download/release_notes#Release%20Notes%20-%20Magento%201.6.2.0%20(Jan%2011,%202012)" title="1.6.2.0 Release Notes" class="release-icon">&nbsp;</a>
+                </div>
+                <div class="col-2">
+                    <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads – Full Stable Release','Download – Code');">
+                        <select name="download_format" style="float:left;">
+                            <option value="">Select your format</option>
+                            <option value="1.6.2.0/magento-1.6.2.0.zip" class="zip">magento-1.6.2.0.zip (24.58 MB)</option>
+                            <option value="1.6.2.0/magento-1.6.2.0.tar.gz" class="tar.gz">magento-1.6.2.0.tar.gz (15.59 MB)</option>
+                            <option value="1.6.2.0/magento-1.6.2.0.tar.bz2" class="tar.bz2">magento-1.6.2.0.tar.bz2 (12.53 MB)</option>
+                        </select>
+                                                &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                                            </form>
+                </div>
+        </div></li>
+        <li style="font:13px/13px arial;padding:10px 0 0;margin-bottom:-7px;text-align:right;"><a href="http://www.magentocommerce.com/go/?utm_source=CE&utm_medium=download-page"><img src="http://www.magentocommerce.com/img/downloads/download-try-go.gif" alt="Need hosting and support? try Magento Go." style="vertical-align:top;" /></a></li>        
+    </ul>
+    <h3 class="light-grey-head">Preview Release</h3>
+    <ul class="release-list">
+        <li class="alt">
+            <p>This is the latest preview release of the Magento Community Edition. <a href="http://www.magentocommerce.com/download/release_notes#Release%20Notes%20-%20Magento%201.7.0.0-rc1%20(Mar%2028,%202012)">Learn More &raquo;</a></p>
+            <div class="col2-set">
+                <div class="col-1">
+                    <strong>ver 1.7.0.0-rc1</strong> - Added March 28, 2012
+                    &nbsp;<a href="http://www.magentocommerce.com/download/release_notes#Release%20Notes%20-%20Magento%201.7.0.0-rc1%20(Mar%2028,%202012)" title="1.7.0.0-rc1 Release Notes" class="release-icon">&nbsp;</a>
+                </div>
+                <div class="col-2">
+                    <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads – Full Stable Release','Download – Code');">
+                        <select name="download_format" style="float:left;">
+                            <option value="">Select your format</option>
+                            <option value="1.7.0.0-rc1/magento-1.7.0.0-rc1.zip" class="zip">magento-1.7.0.0-rc1.zip (26.63 MB)</option>
+                            <option value="1.7.0.0-rc1/magento-1.7.0.0-rc1.tar.gz" class="tar.gz">magento-1.7.0.0-rc1.tar.gz (17.01 MB)</option>
+                            <option value="1.7.0.0-rc1/magento-1.7.0.0-rc1.tar.bz2" class="tar.bz2">magento-1.7.0.0-rc1.tar.bz2 (13.68 MB)</option>
+                        </select>
+                                                &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                                            </form>
+                </div>
+        </div></li>
+        <li style="font:13px/13px arial;padding:10px 0 0;margin-bottom:-7px;text-align:right;"><a href="http://www.magentocommerce.com/go/?utm_source=CE&utm_medium=download-page"><img src="http://www.magentocommerce.com/img/downloads/download-try-go.gif" alt="Need hosting and support? try Magento Go." style="vertical-align:top;" /></a></li>        
+    </ul>
+    <h3 class="light-grey-head">Downloader</h3>
+    <ul class="release-list">
+        <li class="alt">
+            <p>The downloader will install the latest Magento version</p>
+            <div class="col2-set">
+                <div class="col-1">
+                    <strong>ver 1.5.0.0</strong> - Added February 8, 2010
+                    &nbsp;<a href="http://www.magentocommerce.com/download/release_notes#Release%20Notes%20-%20Magento%201.5.0.0%20stable%20(February%208,%202010)" title="1.5.0.0 Release Notes" class="release-icon">&nbsp;</a>
+                </div>
+                <div class="col-2">
+                    <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads – Downloader','Download – Code');">
+                        <select name="download_format" style="float:left;">
+                            <option value="">Select your format</option>
+                            <option value="1.5.0.0/magento-downloader-1.5.0.0.zip" class="zip">magento-downloader-1.5.0.0.zip (45.77 KB)</option>
+                            <option value="1.5.0.0/magento-downloader-1.5.0.0.tar.gz" class="tar.gz">magento-downloader-1.5.0.0.tar.gz (45.69 KB)</option>
+                            <option value="1.5.0.0/magento-downloader-1.5.0.0.tar.bz2" class="tar.bz2">magento-downloader-1.5.0.0.tar.bz2 (48.47 KB)</option>
+                        </select>
+                                                &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                                            </form>
+                </div>
+            </div>
+        </li>
+       <li style="font:13px/13px arial;padding:10px 0 0;margin-bottom:-7px;text-align:right;"><a href="http://www.magentocommerce.com/go/?utm_source=CE&utm_medium=download-page"><img src="http://www.magentocommerce.com/img/downloads/download-try-go.gif" alt="Need hosting and support? try Magento Go." style="vertical-align:top;" /></a></li>
+    </ul><div class="clear"></div>
+    <h3 class="light-grey-head">Sample Data</h3>
+    <ul class="release-list">
+        <li class="alt">
+        <p><span class="required">Must be installed prior to the basic Magento Installation.</span> <a href="http://www.magentocommerce.com/knowledge-base/entry/installing-sample-data-archive-for-magento-1610" title="Installing Sample Data Archive for Magento 1.6.1.0">Learn More &raquo;</a> </p>
+        <div class="col2-set">
+            <div class="col-1">
+                <strong>ver 1.6.1.0</strong> - Added October 26, 2011
+                &nbsp;<a href="http://www.magentocommerce.com/knowledge-base/entry/installing-sample-data-archive-for-magento-1610" title="Installing Sample Data Archive for Magento 1.6.1.0" class="release-icon">&nbsp;</a>
+            </div>
+            <div class="col-2">
+                <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads – Sample Data','Download – Code');">
+                    <select name="download_format" style="float:left;">
+                        <option value="">Select your format</option>
+                        <option value="1.6.1.0/magento-sample-data-1.6.1.0.zip" class="zip">magento-sample-data-1.6.1.0.zip (9.92 MB)</option>
+                        <option value="1.6.1.0/magento-sample-data-1.6.1.0.tar.gz" class="tar.gz">magento-sample-data-1.6.1.0.tar.gz (9.86 MB)</option>
+                        <option value="1.6.1.0/magento-sample-data-1.6.1.0.tar.bz2" class="tar.bz2">magento-sample-data-1.6.1.0.tar.bz2 (9.77 MB)</option>
+                    </select>
+                                        &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                                    </form>
+            </div>
+        </div></li>
+        <li style="font:13px/13px arial;padding:10px 0 0;margin-bottom:-7px;text-align:right;"><a href="http://www.magentocommerce.com/go/?utm_source=CE&utm_medium=download-page"><img src="http://www.magentocommerce.com/img/downloads/download-try-go.gif" alt="Need hosting and support? try Magento Go.." style="vertical-align:top;" /></a></li>
+    </ul>
+    <!--
+    <h3 class="light-grey-head">Database Repair Tool</h3>
+    <ul class="release-list">
+        <li class="alt">
+            <p>The Database Repair Tool compares 2 databases (reference and target), and updates the target database so it has the same structure as the reference database. <a href="http://www.magentocommerce.com/wiki/doc/db-repair-tool" title="Magento Database Repair Tool">Learn More &raquo;</a></p>
+            <div class="col2-set">
+                <div class="col-1">
+                    <strong>ver 1.0</strong> - Added August 11, 2009
+                    &nbsp;<a href="http://www.magentocommerce.com/wiki/doc/db-repair-tool" title="Magento Database Repair Tool" class="release-icon">&nbsp;</a>
+                </div>
+                <div class="col-2">
+                    <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads – Database Repair Tool','Download – Code');">
+                        <select name="download_format" style="float:left;">
+                            <option value="">Select your format</option>
+                            <option value="tools/magento-db-repair-tool-1.0.php.zip" class="zip">magento-db-repair-tool-1.0.php.zip (42.48 KB)</option>
+                            <option value="tools/magento-db-repair-tool-1.0.php.gz" class="tar.gz">magento-db-repair-tool-1.0.php.gz (42.34 KB)</option>
+                            <option value="tools/magento-db-repair-tool-1.0.php.bz2" class="tar.bz2">magento-db-repair-tool-1.0.php.bz2 (45.72 KB)</option>
+                        </select>
+                                                &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                                            </form>
+                </div>
+            </div>
+        </li>
+        <li style="font:13px/13px arial;padding:10px 0 0;margin-bottom:-7px;text-align:right;"><a href="http://www.magentocommerce.com/go/?utm_source=CE&utm_medium=download-page"><img src="http://www.magentocommerce.com/img/downloads/download-try-go.gif" alt="Need hosting and support? try Magento Go." style="vertical-align:top;" /></a></li>
+    </ul>
+    -->
+    <h3 class="light-grey-head">Magento and Zend Server - Unified Installer</h3>
+    <ul class="release-list">
+        <li class="alt">
+        <p>Download a complete stack of Magento bundles with Zend Server and see just how easy it is to break away from the starting line. <a href="http://www.magentocommerce.com/product/magento-zend" title="Magento and Zend Server">Learn More &raquo;</a></p>
+        <div class="col2-set">
+            <div class="col-1">
+                <strong>ver 1.0.0</strong> - Added November 9, 2009
+                &nbsp;<a href="http://www.magentocommerce.com/product/magento-zend" title="Magento and Zend Server" class="release-icon">&nbsp;</a>
+            </div>
+            <div class="col-2">
+                <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads – Magento and Zend Server','Download – Code');">
+                    <select name="download_format" style="float:left;">
+                        <option value="">Select your format</option>
+                         <option value="zend/Magento-ZendServer.zip" class="zip">Windows (104.03 MB)</option>
+                         <option value="zend/Magento-ZendServer-RepositoryInstaller-linux.tar.gz" class="tar.gz">Linux (2.77 KB)</option>
+                    </select>
+                                        &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                                    </form>
+            </div>
+        </div></li>
+       <li style="font:13px/13px arial;padding:10px 0 0;margin-bottom:-7px;text-align:right;"><a href="http://www.magentocommerce.com/go/?utm_source=CE&utm_medium=download-page"><img src="http://www.magentocommerce.com/img/downloads/download-try-go.gif" alt="Need hosting and support? try Magento Go." style="vertical-align:top;" /></a></li>
+    </ul>
+    
+    
+    <h3 class="light-grey-head">Magento Test Automation Framework</h3>
+    <ul class="release-list">
+        <li class="alt">
+            <p>
+                Magento Test Automation Framework allows you to test your deployment, develop tests for your websites and contribute to the community <a href="#tag" onclick="changeDownloadTab('download-getstarted'); return false;" title="Magento Test Automation Framework">Learn More &raquo;</a>
+            </p>
+            <div class="col2-set">
+            <div class="col-1"></div>
+            </div>
+        </li>
+    </ul>
+    <br/>
+</div>
+        </div>
+        <div id="download-archives" style="display:none;">
+            <div class="download-releases" style="margin-top:20px;">
+    <!-- <table class="list-col3-simple" border="0" cellpadding="0" cellspacing="0"><tr class="list-col3-simple-head">
+        <td valign="middle" style="padding-top:1px;">Release <small style="font-weight:normal;">(date)</small></td>
+    </tr></table> -->
+    <h3 class="light-grey-head">ver 1.7.0.0-rc1</h3>
+    <ul class="release-list">
+
+    <li class="alt"><div class="col2-set">
+            <div class="col-1">
+                <strong>ver 1.7.0.0-rc1</strong> - Added Mar 28, 2012
+                &nbsp;<a href="http://www.magentocommerce.com/download/release_notes#Release%20Notes%20-%20Magento%201.7.0.0-rc1%20(Mar%2028,%202012)" title="1.7.0.0-rc1 Release Notes" class="release-icon">&nbsp;</a>
+            </div>
+            <div class="col-2">
+            <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads . Preview Release','Download . Archive');">
+                <select name="download_format" style="width:270px;">
+                    <option value="">Select your format</option>
+                    <option value="1.7.0.0-rc1/magento-1.7.0.0-rc1.zip" class="zip">magento-1.7.0.0-rc1.zip (25 Mb)</option>
+                    <option value="1.7.0.0-rc1/magento-1.7.0.0-rc1.tar.gz" class="tar.gz">magento-1.7.0.0-rc1.tar.gz (15 Mb)</option>
+                    <option value="1.7.0.0-rc1/magento-1.7.0.0-rc1.tar.bz2" class="tar.bz2">magento-1.7.0.0-rc1.tar.bz2 (12 Mb)</option>
+                </select>
+                                &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                            </form>
+            </div>
+        </div></li>
+
+    <li class="release-additional"><div class="col2-set">
+            <div class="col-1">
+                <strong>ver 1.7.0.0-beta1</strong> - Added Mar 2, 2012
+                &nbsp;<a href="http://www.magentocommerce.com/download/release_notes#Release%20Notes%20-%20Magento%201.7.0.0-beta1%20(Mar%202,%202012)" title="1.7.0.0-beta1 Release Notes" class="release-icon">&nbsp;</a>
+            </div>
+            <div class="col-2">
+            <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads . Preview Release','Download . Archive');">
+                <select name="download_format" style="width:270px;">
+                    <option value="">Select your format</option>
+                    <option value="1.7.0.0-beta1/magento-1.7.0.0-beta1.zip" class="zip">magento-1.7.0.0-beta1.zip (25 Mb)</option>
+                    <option value="1.7.0.0-beta1/magento-1.7.0.0-beta1.tar.gz" class="tar.gz">magento-1.7.0.0-beta1.tar.gz (15 Mb)</option>
+                    <option value="1.7.0.0-beta1/magento-1.7.0.0-beta1.tar.bz2" class="tar.bz2">magento-1.7.0.0-beta1.tar.bz2 (12 Mb)</option>
+                </select>
+                                &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                            </form>
+            </div>
+        </div></li>
+
+    <li class="release-additional"><div class="col2-set">
+            <div class="col-1">
+                <strong>ver 1.7.0.0-alpha1</strong> - Added Dec 30, 2011
+                &nbsp;<a href="http://www.magentocommerce.com/download/release_notes#Release%20Notes%20-%20Magento%201.7.0.0-alpha1%20(Dec%2030,%202011)" title="1.7.0.0-alpha1 Release Notes" class="release-icon">&nbsp;</a>
+            </div>
+            <div class="col-2">
+            <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads . Preview Release','Download . Archive');">
+                <select name="download_format" style="width:270px;">
+                    <option value="">Select your format</option>
+                    <option value="1.7.0.0-alpha1/magento-1.7.0.0-alpha1.zip" class="zip">magento-1.7.0.0-alpha1.zip (25 Mb)</option>
+                    <option value="1.7.0.0-alpha1/magento-1.7.0.0-alpha1.tar.gz" class="tar.gz">magento-1.7.0.0-alpha1.tar.gz (15 Mb)</option>
+                    <option value="1.7.0.0-alpha1/magento-1.7.0.0-alpha1.tar.bz2" class="tar.bz2">magento-1.7.0.0-alpha1.tar.bz2 (12 Mb)</option>
+                </select>
+                                &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                            </form>
+            </div>
+        </div></li>
+    </ul>
+    <h3 class="light-grey-head">ver 1.6.2.0</h3>
+    <ul class="release-list">
+    <li class="alt"><div class="col2-set">
+            <div class="col-1">
+                <strong>ver 1.6.2.0</strong> - Added Jan 11, 2012
+                &nbsp;<a href="http://www.magentocommerce.com/download/release_notes#Release%20Notes%20-%20Magento%201.6.2.0%20(Jan%2011,%202012)" title="1.6.2.0 Release Notes" class="release-icon">&nbsp;</a>
+            </div>
+            <div class="col-2">
+            <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads . Preview Release','Download . Archive');">
+                <select name="download_format" style="width:270px;">
+                    <option value="">Select your format</option>
+                    <option value="1.6.2.0/magento-1.6.2.0.zip" class="zip">magento-1.6.2.0.zip (25 Mb)</option>
+                    <option value="1.6.2.0/magento-1.6.2.0.tar.gz" class="tar.gz">magento-1.6.2.0.tar.gz (15 Mb)</option>
+                    <option value="1.6.2.0/magento-1.6.2.0.tar.bz2" class="tar.bz2">magento-1.6.2.0.tar.bz2 (12 Mb)</option>
+                </select>
+                                &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                            </form>
+            </div>
+        </div></li>
+
+    <li class="release-additional"><div class="col2-set">
+            <div class="col-1">
+                <strong>ver 1.6.1.0</strong> - Added Oct 19, 2011
+                &nbsp;<a href="http://www.magentocommerce.com/download/release_notes#Release%20Notes%20-%20Magento%201.6.1.0%20(Oct%2019,%202011)" title="1.6.1.0 Release Notes" class="release-icon">&nbsp;</a>
+            </div>
+            <div class="col-2">
+            <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads . Preview Release','Download . Archive');">
+                <select name="download_format" style="width:270px;">
+                    <option value="">Select your format</option>
+                    <option value="1.6.1.0/magento-1.6.1.0.zip" class="zip">magento-1.6.1.0.zip (25 Mb)</option>
+                    <option value="1.6.1.0/magento-1.6.1.0.tar.gz" class="tar.gz">magento-1.6.1.0.tar.gz (15 Mb)</option>
+                    <option value="1.6.1.0/magento-1.6.1.0.tar.bz2" class="tar.bz2">magento-1.6.1.0.tar.bz2 (12 Mb)</option>
+                </select>
+                                &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                            </form>
+            </div>
+        </div></li>
+
+    <li class="release-additional"><div class="col2-set">
+            <div class="col-1">
+                <strong>ver 1.6.1.0-rc1</strong> - Added Sep 29, 2011
+                &nbsp;<a href="http://www.magentocommerce.com/download/release_notes#Release%20Notes%20-%20Magento%201.6.1.0-rc1%20(Sep%2029,%202011)" title="1.6.1.0-rc1 Release Notes" class="release-icon">&nbsp;</a>
+            </div>
+            <div class="col-2">
+            <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads . Preview Release','Download . Archive');">
+                <select name="download_format" style="width:270px;">
+                    <option value="">Select your format</option>
+                    <option value="1.6.1.0-rc1/magento-1.6.1.0-rc1.zip" class="zip">magento-1.6.1.0-rc1.zip (25 Mb)</option>
+                    <option value="1.6.1.0-rc1/magento-1.6.1.0-rc1.tar.gz" class="tar.gz">magento-1.6.1.0-rc1.tar.gz (15 Mb)</option>
+                    <option value="1.6.1.0-rc1/magento-1.6.1.0-rc1.tar.bz2" class="tar.bz2">magento-1.6.1.0-rc1.tar.bz2 (12 Mb)</option>
+                </select>
+                                &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                            </form>
+            </div>
+        </div></li>
+
+    <li class="release-additional"><div class="col2-set">
+            <div class="col-1">
+                <strong>ver 1.6.1.0-beta1</strong> - Added Sep 21, 2011
+                &nbsp;<a href="http://www.magentocommerce.com/download/release_notes#Release%20Notes%20-%20Magento%201.6.1.0-beta1%20(Sep%2021,%202011)" title="1.6.1.0-beta1 Release Notes" class="release-icon">&nbsp;</a>
+            </div>
+            <div class="col-2">
+            <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads . Preview Release','Download . Archive');">
+                <select name="download_format" style="width:270px;">
+                    <option value="">Select your format</option>
+                    <option value="1.6.1.0-beta1/magento-1.6.1.0-beta1.zip" class="zip">magento-1.6.1.0-beta1.zip (25 Mb)</option>
+                    <option value="1.6.1.0-beta1/magento-1.6.1.0-beta1.tar.gz" class="tar.gz">magento-1.6.1.0-beta1.tar.gz (15 Mb)</option>
+                    <option value="1.6.1.0-beta1/magento-1.6.1.0-beta1.tar.bz2" class="tar.bz2">magento-1.6.1.0-beta1.tar.bz2 (12 Mb)</option>
+                </select>
+                                &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                            </form>
+            </div>
+        </div></li>
+
+    <li class="release-additional"><div class="col2-set">
+            <div class="col-1">
+                <strong>ver 1.6.1.0-alpha1</strong> - Added Sep 16, 2011
+                &nbsp;<a href="http://www.magentocommerce.com/download/release_notes#Release%20Notes%20-%20Magento%201.6.1.0-alpha1%20(Sep%2016,%202011)" title="1.6.1.0-alpha1 Release Notes" class="release-icon">&nbsp;</a>
+            </div>
+            <div class="col-2">
+            <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads . Preview Release','Download . Archive');">
+                <select name="download_format" style="width:270px;">
+                    <option value="">Select your format</option>
+                    <option value="1.6.1.0-alpha1/magento-1.6.1.0-alpha1.zip" class="zip">magento-1.6.1.0-alpha1.zip (25 Mb)</option>
+                    <option value="1.6.1.0-alpha1/magento-1.6.1.0-alpha1.tar.gz" class="tar.gz">magento-1.6.1.0-alpha1.tar.gz (15 Mb)</option>
+                    <option value="1.6.1.0-alpha1/magento-1.6.1.0-alpha1.tar.bz2" class="tar.bz2">magento-1.6.1.0-alpha1.tar.bz2 (12 Mb)</option>
+                </select>
+                                &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                            </form>
+            </div>
+        </div></li>
+
+    <li class="release-additional"><div class="col2-set">
+            <div class="col-1">
+                <strong>ver 1.6.0.0</strong> - Added Aug 18, 2011
+                &nbsp;<a href="http://www.magentocommerce.com/download/release_notes#Release%20Notes%20-%20Magento%201.6.0.0%20(Aug%2018,%202011)" title="1.6.0.0 Release Notes" class="release-icon">&nbsp;</a>
+            </div>
+            <div class="col-2">
+            <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads . Preview Release','Download . Archive');">
+                <select name="download_format" style="width:270px;">
+                    <option value="">Select your format</option>
+                    <option value="1.6.0.0/magento-1.6.0.0.zip" class="zip">magento-1.6.0.0.zip (25 Mb)</option>
+                    <option value="1.6.0.0/magento-1.6.0.0.tar.gz" class="tar.gz">magento-1.6.0.0.tar.gz (15 Mb)</option>
+                    <option value="1.6.0.0/magento-1.6.0.0.tar.bz2" class="tar.bz2">magento-1.6.0.0.tar.bz2 (12 Mb)</option>
+                </select>
+                                &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                            </form>
+            </div>
+        </div></li>
+
+    <li class="release-additional"><div class="col2-set">
+            <div class="col-1">
+                <strong>ver 1.6.0.0-rc2</strong> - Added Jul 11, 2011
+                &nbsp;<a href="http://www.magentocommerce.com/download/release_notes#Release%20Notes%20-%20Magento%201.6.0.0-rc2%20(Jul%2011,%202011)" title="1.6.0.0-rc2 Release Notes" class="release-icon">&nbsp;</a>
+            </div>
+            <div class="col-2">
+            <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads . Preview Release','Download . Archive');">
+                <select name="download_format" style="width:270px;">
+                    <option value="">Select your format</option>
+                    <option value="1.6.0.0-rc2/magento-1.6.0.0-rc2.zip" class="zip">magento-1.6.0.0-rc2.zip (25 Mb)</option>
+                    <option value="1.6.0.0-rc2/magento-1.6.0.0-rc2.tar.gz" class="tar.gz">magento-1.6.0.0-rc2.tar.gz (15 Mb)</option>
+                    <option value="1.6.0.0-rc2/magento-1.6.0.0-rc2.tar.bz2" class="tar.bz2">magento-1.6.0.0-rc2.tar.bz2 (12 Mb)</option>
+                </select>
+                                &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                            </form>
+            </div>
+        </div></li>
+     <li class="release-additional"><div class="col2-set">
+            <div class="col-1">
+                <strong>ver 1.6.0.0-rc1</strong> - Added Jun 30, 2011
+                &nbsp;<a href="http://www.magentocommerce.com/download/release_notes#Release%20Notes%20-%20Magento%201.6.0.0-rc1%20(Jun%2030,%202011)" title="1.6.0.0-rc1 Release Notes" class="release-icon">&nbsp;</a>
+            </div>
+            <div class="col-2">
+            <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads . Preview Release','Download . Archive');">
+                <select name="download_format" style="width:270px;">
+                    <option value="">Select your format</option>
+                    <option value="1.6.0.0-rc1/magento-1.6.0.0-rc1.zip" class="zip">magento-1.6.0.0-rc1.zip (25 Mb)</option>
+                    <option value="1.6.0.0-rc1/magento-1.6.0.0-rc1.tar.gz" class="tar.gz">magento-1.6.0.0-rc1.tar.gz (15 Mb)</option>
+                    <option value="1.6.0.0-rc1/magento-1.6.0.0-rc1.tar.bz2" class="tar.bz2">magento-1.6.0.0-rc1.tar.bz2 (12 Mb)</option>
+                </select>
+                                &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                            </form>
+            </div>
+        </div></li>
+        <li class="release-additional"><div class="col2-set">
+            <div class="col-1">
+                <strong>ver 1.6.0.0-beta1</strong> - Added Jun 15, 2011
+                &nbsp;<a href="http://www.magentocommerce.com/download/release_notes#Release%20Notes%20-%20Magento%201.6.0.0-beta1%20(Jun%2015,%202011)" title="1.6.0.0-beta1 Release Notes" class="release-icon">&nbsp;</a>
+            </div>
+            <div class="col-2">
+            <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads . Preview Release','Download . Archive');">
+                <select name="download_format" style="width:270px;">
+                    <option value="">Select your format</option>
+                    <option value="1.6.0.0-beta1/magento-1.6.0.0-beta1.zip" class="zip">magento-1.6.0.0-beta1.zip (25 Mb)</option>
+                    <option value="1.6.0.0-beta1/magento-1.6.0.0-beta1.tar.gz" class="tar.gz">magento-1.6.0.0-beta1.tar.gz (15 Mb)</option>
+                    <option value="1.6.0.0-beta1/magento-1.6.0.0-beta1.tar.bz2" class="tar.bz2">magento-1.6.0.0-beta1.tar.bz2 (12 Mb)</option>
+                </select>
+                                &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                            </form>
+            </div>
+        </div></li>
+        <li class="release-additional"><div class="col2-set">
+            <div class="col-1">
+                <strong>ver 1.6.0.0-alpha1</strong> - Added May 26, 2011
+                &nbsp;<a href="http://www.magentocommerce.com/download/release_notes#Release%20Notes%20-%20Magento%201.6.0.0-alpha1%20(May%2026,%202011)" title="1.6.0.0-alpha1 Release Notes" class="release-icon">&nbsp;</a>
+            </div>
+            <div class="col-2">
+            <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads . Preview Release','Download . Archive');">
+                <select name="download_format" style="width:270px;">
+                    <option value="">Select your format</option>
+                    <option value="1.6.0.0-alpha1/magento-1.6.0.0-alpha1.zip" class="zip">magento-1.6.0.0-alpha1.zip (24 Mb)</option>
+                    <option value="1.6.0.0-alpha1/magento-1.6.0.0-alpha1.tar.gz" class="tar.gz">magento-1.6.0.0-alpha1.tar.gz (15 Mb)</option>
+                    <option value="1.6.0.0-alpha1/magento-1.6.0.0-alpha1.tar.bz2" class="tar.bz2">magento-1.6.0.0-alpha1.tar.bz2 (12 Mb)</option>
+                </select>
+                                &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                            </form>
+            </div>
+        </div></li>
+    </ul>
+    <h3 class="light-grey-head">ver 1.5.1.0</h3>
+    <ul class="release-list">
+        <li class="alt"><div class="col2-set">
+            <div class="col-1">
+                <strong>ver 1.5.1.0</strong> - Added April 26, 2011
+                &nbsp;<a href="http://www.magentocommerce.com/download/release_notes#Release%20Notes%20-%20Magento%201.5.1.0%20(April%2026,%202011)" title="1.5.1.0 Release Notes" class="release-icon">&nbsp;</a>
+            </div>
+            <div class="col-2">
+            <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads . Preview Release','Download . Archive');">
+                <select name="download_format" style="width:270px;">
+                    <option value="">Select your format</option>
+                    <option value="1.5.1.0/magento-1.5.1.0.zip" class="zip">magento-1.5.1.0.zip (22 Mb)</option>
+                    <option value="1.5.1.0/magento-1.5.1.0.tar.gz" class="tar.gz">magento-1.5.1.0.tar.gz (13 Mb)</option>
+                    <option value="1.5.1.0/magento-1.5.1.0.tar.bz2" class="tar.bz2">magento-1.5.1.0.tar.bz2 (9,7 Mb)</option>
+                </select>
+                                &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                            </form>
+            </div>
+        </div></li>
+        <li class="release-additional"><div class="col2-set">
+            <div class="col-1">
+                <strong>ver 1.5.1.0-rc1</strong> - Added March 31, 2011
+                &nbsp;<a href="http://www.magentocommerce.com/download/release_notes#Release%20Notes%20-%20Magento%201.5.1.0-rc1%20(March%2031,%202011)" title="1.5.1.0-rc1 Release Notes" class="release-icon">&nbsp;</a>
+            </div>
+            <div class="col-2">
+            <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads . Preview Release','Download . Archive');">
+                <select name="download_format" style="width:270px;">
+                    <option value="">Select your format</option>
+                    <option value="1.5.1.0-rc1/magento-1.5.1.0-rc1.zip" class="zip">magento-1.5.1.0-rc1.zip (22 Mb)</option>
+                    <option value="1.5.1.0-rc1/magento-1.5.1.0-rc1.tar.gz" class="tar.gz">magento-1.5.1.0-rc1.tar.gz (13 Mb)</option>
+                    <option value="1.5.1.0-rc1/magento-1.5.1.0-rc1.tar.bz2" class="tar.bz2">magento-1.5.1.0-rc1.tar.bz2 (9,7 Mb)</option>
+                </select>
+                                &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                            </form>
+            </div>
+        </div></li>
+        <li class="release-additional"><div class="col2-set">
+            <div class="col-1">
+                <strong>ver 1.5.1.0-beta1</strong> - Added March 18, 2011
+                &nbsp;<a href="http://www.magentocommerce.com/download/release_notes#Release%20Notes%20-%20Magento%201.5.1.0-beta1%20(March%2018,%202011)" title="1.5.1.0-beta1 Release Notes" class="release-icon">&nbsp;</a>
+            </div>
+            <div class="col-2">
+            <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads . Preview Release','Download . Archive');">
+                <select name="download_format" style="width:270px;">
+                    <option value="">Select your format</option>
+                    <option value="1.5.1.0-beta1/magento-1.5.1.0-beta1.zip" class="zip">magento-1.5.1.0-beta1.zip (22 Mb)</option>
+                    <option value="1.5.1.0-beta1/magento-1.5.1.0-beta1.tar.gz" class="tar.gz">magento-1.5.1.0-beta1.tar.gz (13 Mb)</option>
+                    <option value="1.5.1.0-beta1/magento-1.5.1.0-beta1.tar.bz2" class="tar.bz2">magento-1.5.1.0-beta1.tar.bz2 (9,7 Mb)</option>
+                </select>
+                                &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                            </form>
+            </div>
+        </div></li>
+        <li class="release-additional"><div class="col2-set">
+            <div class="col-1">
+                <strong>ver 1.5.0.1</strong> - Added February 9, 2011
+                &nbsp;<a href="http://www.magentocommerce.com/download/release_notes#Release%20Notes%20-%20Magento%201.5.0.1%20stable%20(February%209,%202011)" title="1.5.0.1 Release Notes" class="release-icon">&nbsp;</a>
+            </div>
+            <div class="col-2">
+            <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads . Preview Release','Download . Archive');">
+                <select name="download_format" style="width:270px;">
+                    <option value="">Select your format</option>
+                    <option value="1.5.0.1/magento-1.5.0.1.zip" class="zip">magento-1.5.0.1.zip (22 Mb)</option>
+                    <option value="1.5.0.1/magento-1.5.0.1.tar.gz" class="tar.gz">magento-1.5.0.1.tar.gz (13 Mb)</option>
+                    <option value="1.5.0.1/magento-1.5.0.1.tar.bz2" class="tar.bz2">magento-1.5.0.1.tar.bz2 (9,7 Mb)</option>
+                </select>
+                                &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                            </form>
+            </div>
+        </div></li>
+        <li class="release-additional"><div class="col2-set">
+            <div class="col-1">
+                <strong>ver 1.5.0.0-rc2</strong> - Added February 03, 2011
+                &nbsp;<a href="http://www.magentocommerce.com/download/release_notes#Release%20Notes%20-%20Magento%201.5.0.0-rc2%20(February%2003,%202011)" title="1.5.0.0-rc2 Release Notes" class="release-icon">&nbsp;</a>
+            </div>
+            <div class="col-2">
+            <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads . Preview Release','Download . Archive');">
+                <select name="download_format" style="width:270px;">
+                    <option value="">Select your format</option>
+                    <option value="1.5.0.0-rc2/magento-1.5.0.0-rc2.zip" class="zip">magento-1.5.0.0-rc2.zip (22 Mb)</option>
+                    <option value="1.5.0.0-rc2/magento-1.5.0.0-rc2.tar.gz" class="tar.gz">magento-1.5.0.0-rc2.tar.gz (13 Mb)</option>
+                    <option value="1.5.0.0-rc2/magento-1.5.0.0-rc2.tar.bz2" class="tar.bz2">magento-1.5.0.0-rc2.tar.bz2 (9,7 Mb)</option>
+                </select>
+                                &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                            </form>
+            </div>
+        </div></li>
+        <li class="release-additional"><div class="col2-set">
+            <div class="col-1">
+                <strong>ver 1.5.0.0-rc1</strong> - Added January 27, 2011
+                &nbsp;<a href="http://www.magentocommerce.com/download/release_notes#Release%20Notes%20-%20Magento%201.5.0.0-rc1%20(January%2027,%202011)" title="1.5.0.0-rc1 Release Notes" class="release-icon">&nbsp;</a>
+            </div>
+            <div class="col-2">
+            <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads . Preview Release','Download . Archive');">
+                <select name="download_format" style="width:270px;">
+                    <option value="">Select your format</option>
+                    <option value="1.5.0.0-rc1/magento-1.5.0.0-rc1.zip" class="zip">magento-1.5.0.0-rc1.zip (22 Mb)</option>
+                    <option value="1.5.0.0-rc1/magento-1.5.0.0-rc1.tar.gz" class="tar.gz">magento-1.5.0.0-rc1.tar.gz (13 Mb)</option>
+                    <option value="1.5.0.0-rc1/magento-1.5.0.0-rc1.tar.bz2" class="tar.bz2">magento-1.5.0.0-rc1.tar.bz2 (9,7 Mb)</option>
+                </select>
+                                &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                            </form>
+            </div>
+        </div></li>
+        <li class="release-additional"><div class="col2-set">
+            <div class="col-1">
+                <strong>ver 1.5.0.0-beta2</strong> - Added January 21, 2011
+                &nbsp;<a href="http://www.magentocommerce.com/download/release_notes#Release%20Notes%20-%20Magento%201.5.0.0-beta2%20(January%2021,%202011)" title="1.5.0.0-beta2 Release Notes" class="release-icon">&nbsp;</a>
+            </div>
+            <div class="col-2">
+            <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads . Preview Release','Download . Archive');">
+                <select name="download_format" style="width:210px;">
+                    <option value="">Select your format</option>
+                    <option value="1.5.0.0-beta2/magento-1.5.0.0-beta2.zip" class="zip">magento-1.5.0.0-beta2.zip (22 Mb)</option>
+                    <option value="1.5.0.0-beta2/magento-1.5.0.0-beta2.tar.gz" class="tar.gz">magento-1.5.0.0-beta2.tar.gz (13 Mb)</option>
+                    <option value="1.5.0.0-beta2/magento-1.5.0.0-beta2.tar.bz2" class="tar.bz2">magento-1.5.0.0-beta2.tar.bz2 (9,7 Mb)</option>
+                </select>
+                                &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                            </form>
+            </div>
+        </div></li>
+      <li class="release-additional"><div class="col2-set">
+        <div class="col-1">
+                <strong>ver 1.5.0.0-beta1</strong> - Added January 13, 2011
+                &nbsp;<a href="http://www.magentocommerce.com/download/release_notes#Release%20Notes%20-%20Magento%201.5.0.0-beta1%20(January%2013,%202011)" title="1.5.0.0-beta1 Release Notes" class="release-icon">&nbsp;</a>
+            </div>
+            <div class="col-2">
+            <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads . Preview Release','Download . Archive');">
+                <select name="download_format" style="width:210px;">
+                    <option value="">Select your format</option>
+                    <option value="1.5.0.0-beta1/magento-1.5.0.0-beta1.zip" class="zip">magento-1.5.0.0-beta1.zip (22 Mb)</option>
+                    <option value="1.5.0.0-beta1/magento-1.5.0.0-beta1.tar.gz" class="tar.gz">magento-1.5.0.0-beta1.tar.gz (13 Mb)</option>
+                    <option value="1.5.0.0-beta1/magento-1.5.0.0-beta1.tar.bz2" class="tar.bz2">magento-1.5.0.0-beta1.tar.bz2 (9,7 Mb)</option>
+                </select>
+                                &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                            </form>
+            </div>
+        </div></li>
+        <li class="release-additional"><div class="col2-set">
+            <div class="col-1">
+                <strong>ver 1.5.0.0-alpha2</strong> - Added December 29, 2010
+                &nbsp;<a href="http://www.magentocommerce.com/download/release_notes#Release%20Notes%20-%20Magento%201.5.0.0-alpha2%20(December%2029,%202010)" title="1.5.0.0-alpha2 Release Notes" class="release-icon">&nbsp;</a>
+            </div>
+            <div class="col-2">
+            <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads – Preview Release','Download – Archive');">
+                <select name="download_format" style="width:210px;">
+                    <option value="">Select your format</option>
+                    <option value="1.5.0.0-alpha2/magento-1.5.0.0-alpha2.zip" class="zip">magento-1.5.0.0-alpha2.zip (22 Mb)</option>
+                    <option value="1.5.0.0-alpha2/magento-1.5.0.0-alpha2.tar.gz" class="tar.gz">magento-1.5.0.0-alpha2.tar.gz (13 Mb)</option>
+                    <option value="1.5.0.0-alpha2/magento-1.5.0.0-alpha2.tar.bz2" class="tar.bz2">magento-1.5.0.0-alpha2.tar.bz2 (9,7 Mb)</option>
+                </select>
+                                &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                            </form>
+            </div>
+        </div></li>
+        <li class="release-additional"><div class="col2-set">
+            <div class="col-1">
+                <strong>ver 1.5.0.0-alpha1</strong> - Added December 17, 2010
+                &nbsp;<a href="http://www.magentocommerce.com/download/release_notes#Release%20Notes%20-%20Magento%201.5.0.0-alpha1%20(December%2017,%202010)" title="1.5.0.0-alpha1 Release Notes" class="release-icon">&nbsp;</a>
+            </div>
+            <div class="col-2">
+            <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads – Preview Release','Download – Archive');">
+                <select name="download_format" style="width:210px;">
+                    <option value="">Select your format</option>
+                    <option value="1.5.0.0-alpha1/magento-1.5.0.0-alpha1.zip" class="zip">magento-1.5.0.0-alpha1.zip (22 Mb)</option>
+                    <option value="1.5.0.0-alpha1/magento-1.5.0.0-alpha1.tar.gz" class="tar.gz">magento-1.5.0.0-alpha1.tar.gz (13 Mb)</option>
+                    <option value="1.5.0.0-alpha1/magento-1.5.0.0-alpha1.tar.bz2" class="tar.bz2">magento-1.5.0.0-alpha1.tar.bz2 (9,7 Mb)</option>
+                </select>
+                                &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                            </form>
+            </div>
+        </div></li>
+    </ul>
+    <h3 class="light-grey-head">ver 1.4.2.0</h3>
+    <ul class="release-list">
+        <li class="alt"><div class="col2-set">
+            <div class="col-1">
+                <strong>ver 1.4.2.0</strong> - Added December 8, 2010
+                &nbsp;<a href="http://www.magentocommerce.com/download/release_notes#Release%20Notes%20-%20Magento%201.4.2.0%20(December%208,%202010)" title="1.4.2.0 Release Notes" class="release-icon">&nbsp;</a>
+            </div>
+            <div class="col-2">
+            <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads – Full Stable Release','Download – Archive');">
+                <select name="download_format" style="width:210px;">
+                    <option value="">Select your format</option>
+                    <option value="1.4.2.0/magento-1.4.2.0.zip" class="zip">magento-1.4.2.0.zip (20 Mb)</option>
+                    <option value="1.4.2.0/magento-1.4.2.0.tar.gz" class="tar.gz">magento-1.4.2.0.tar.gz (13 Mb)</option>
+                    <option value="1.4.2.0/magento-1.4.2.0.tar.bz2" class="tar.bz2">magento-1.4.2.0.tar.bz2 (9,7 Mb)</option>
+                </select>
+                                &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                            </form>
+            </div>
+        </div></li>
+        <li class="release-additional"><div class="col2-set">
+            <div class="col-1">
+                <strong>ver 1.4.2.0-rc2</strong> - Added December 2, 2010
+                &nbsp;<a href="http://www.magentocommerce.com/download/release_notes#Release%20Notes%20-%20Magento%201.4.2.0-rc2%20(December%202,%202010)" title="1.4.2.0-rc2 Release Notes" class="release-icon">&nbsp;</a>
+            </div>
+            <div class="col-2">
+            <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads – Full Stable Release','Download – Archive');">
+                <select name="download_format" style="width:210px;">
+                    <option value="">Select your format</option>
+                    <option value="1.4.2.0-rc2/magento-1.4.2.0-rc2.zip" class="zip">magento-1.4.2.0-rc2.zip (20 Mb)</option>
+                    <option value="1.4.2.0-rc2/magento-1.4.2.0-rc2.tar.gz" class="tar.gz">magento-1.4.2.0-rc2.tar.gz (13 Mb)</option>
+                    <option value="1.4.2.0-rc2/magento-1.4.2.0-rc2.tar.bz2" class="tar.bz2">magento-1.4.2.0-rc2.tar.bz2 (9,7 Mb)</option>
+                </select>
+                                &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                            </form>
+            </div>
+        </div></li>
+        <li class="release-additional"><div class="col2-set">
+            <div class="col-1">
+                <strong>ver 1.4.2.0-rc1</strong> - Added November 8, 2010
+                &nbsp;<a href="http://www.magentocommerce.com/download/release_notes#Release%20Notes%20-%20Magento%201.4.2.0-rc1%20(November%208,%202010)" title="1.4.2.0-rc1 Release Notes" class="release-icon">&nbsp;</a>
+            </div>
+            <div class="col-2">
+            <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads – Full Stable Release','Download – Archive');">
+                <select name="download_format" style="width:210px;">
+                    <option value="">Select your format</option>
+                    <option value="1.4.2.0-rc1/magento-1.4.2.0-rc1.zip" class="zip">magento-1.4.2.0-rc1.zip (20 Mb)</option>
+                    <option value="1.4.2.0-rc1/magento-1.4.2.0-rc1.tar.gz" class="tar.gz">magento-1.4.2.0-rc1.tar.gz (13 Mb)</option>
+                    <option value="1.4.2.0-rc1/magento-1.4.2.0-rc1.tar.bz2" class="tar.bz2">magento-1.4.2.0-rc1.tar.bz2 (9,7 Mb)</option>
+                </select>
+                                &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                            </form>
+            </div>
+        </div></li>
+        <li class="release-additional"><div class="col2-set">
+            <div class="col-1">
+                <strong>ver 1.4.2.0-beta1</strong> - Added July 27, 2010
+                &nbsp;<a href="http://www.magentocommerce.com/download/release_notes#Release%20Notes%20-%20Magento%201.4.2.0-beta1%20(July%2027,%202010)" title="1.4.2.0-beta1 Release Notes" class="release-icon">&nbsp;</a>
+            </div>
+            <div class="col-2">
+            <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads – Full Stable Release','Download – Archive');">
+                <select name="download_format" style="width:210px;">
+                    <option value="">Select your format</option>
+                    <option value="1.4.2.0-beta1/magento-1.4.2.0-beta1.zip" class="zip">magento-1.4.2.0-beta1.zip (20 Mb)</option>
+                    <option value="1.4.2.0-beta1/magento-1.4.2.0-beta1.tar.gz" class="tar.gz">magento-1.4.2.0-beta1.tar.gz (13 Mb)</option>
+                    <option value="1.4.2.0-beta1/magento-1.4.2.0-beta1.tar.bz2" class="tar.bz2">magento-1.4.2.0-beta1.tar.bz2 (9,7 Mb)</option>
+                </select>
+                                &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                            </form>
+            </div>
+        </div></li>
+        <li class="release-additional"><div class="col2-set">
+            <div class="col-1">
+                <strong>ver 1.4.1.1</strong> - Added July 26, 2010
+                &nbsp;<a href="http://www.magentocommerce.com/download/release_notes#Release%20Notes%20-%20Magento%201.4.1.1%20stable%20(July%2026,%202010)" title="1.4.1.1 Release Notes" class="release-icon">&nbsp;</a>
+            </div>
+            <div class="col-2">
+            <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads – Full Stable Release','Download – Archive');">
+                <select name="download_format" style="width:210px;">
+                    <option value="">Select your format</option>
+                    <option value="1.4.1.1/magento-1.4.1.1.zip" class="zip">magento-1.4.1.1.zip (20 Mb)</option>
+                    <option value="1.4.1.1/magento-1.4.1.1.tar.gz" class="tar.gz">magento-1.4.1.1.tar.gz (13 Mb)</option>
+                    <option value="1.4.1.1/magento-1.4.1.1.tar.bz2" class="tar.bz2">magento-1.4.1.1.tar.bz2 (9,7 Mb)</option>
+                </select>
+                                &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                            </form>
+            </div>
+        </div></li>
+        <li class="release-additional"><div class="col2-set">
+            <div class="col-1">
+                <strong>ver 1.4.1.0</strong> - Added June 10, 2010
+                &nbsp;<a href="http://www.magentocommerce.com/download/release_notes#Release%20Notes%20-%20Magento%201.4.1.0%20stable%20(June%2010,%202010)" title="1.4.1.0 Release Notes" class="release-icon">&nbsp;</a>
+            </div>
+            <div class="col-2">
+            <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads – Full Stable Release','Download – Archive');">
+                <select name="download_format" style="width:210px;">
+                    <option value="">Select your format</option>
+                    <option value="1.4.1.0/magento-1.4.1.0.zip" class="zip">magento-1.4.1.0.zip (20 Mb)</option>
+                    <option value="1.4.1.0/magento-1.4.1.0.tar.gz" class="tar.gz">magento-1.4.1.0.tar.gz (13 Mb)</option>
+                    <option value="1.4.1.0/magento-1.4.1.0.tar.bz2" class="tar.bz2">magento-1.4.1.0.tar.bz2 (9,7 Mb)</option>
+                </select>
+                                &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                            </form>
+            </div>
+        </div></li>
+        <li class="release-additional"><div class="col2-set">
+            <div class="col-1">
+                <strong>ver 1.4.0.1</strong> - Added February 19, 2010
+                &nbsp;<a href="http://www.magentocommerce.com/download/release_notes#Release%20Notes%20-%20Magento%201.4.0.1%20stable%20(February%2019,%202010)" title="1.4.0.1 Release Notes" class="release-icon">&nbsp;</a>
+            </div>
+            <div class="col-2">
+            <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads – Full Stable Release','Download – Archive');">
+                <select name="download_format" style="width:210px;">
+                    <option value="">Select your format</option>
+                    <option value="1.4.0.1/magento-1.4.0.1.zip" class="zip">magento-1.4.0.1.zip (19,6 Mb)</option>
+                    <option value="1.4.0.1/magento-1.4.0.1.tar.gz" class="tar.gz">magento-1.4.0.1.tar.gz (12,1 Mb)</option>
+                    <option value="1.4.0.1/magento-1.4.0.1.tar.bz2" class="tar.bz2">magento-1.4.0.1.tar.bz2 (9,6 Mb)</option>
+                </select>
+                                &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                            </form>
+            </div>
+        </div></li>
+        <li class="release-additional"><div class="col2-set">
+            <div class="col-1">
+                <strong>ver 1.4.0.0</strong> - Added February 12, 2010
+                &nbsp;<a href="http://www.magentocommerce.com/download/release_notes#Release%20Notes%20-%20Magento%201.4.0.0%20stable%20(February%2012,%202010)" title="1.4.0.0 Release Notes" class="release-icon">&nbsp;</a>
+            </div>
+            <div class="col-2">
+            <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads – Full Stable Release','Download – Archive');">
+                <select name="download_format" style="width:210px;">
+                    <option value="">Select your format</option>
+                    <option value="1.4.0.0/magento-1.4.0.0.zip" class="zip">magento-1.4.0.0.zip (19,6 Mb)</option>
+                    <option value="1.4.0.0/magento-1.4.0.0.tar.gz" class="tar.gz">magento-1.4.0.0.tar.gz (12,1 Mb)</option>
+                    <option value="1.4.0.0/magento-1.4.0.0.tar.bz2" class="tar.bz2">magento-1.4.0.0.tar.bz2 (9,6 Mb)</option>
+                </select>
+                                &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                            </form>
+            </div>
+        </div></li>
+        <li class="release-additional"><div class="col2-set">
+            <div class="col-1">
+                <strong>ver 1.4.0.0-rc1</strong> - Added December 31, 2009
+                 &nbsp;<a href="http://www.magentocommerce.com/download/release_notes#Release%20Notes%20-%20Magento%201.4.0.0-rc1%20(December%2031,%202009)" title="1.4.0.0-rc1 Release Notes" class="release-icon">&nbsp;</a>
+            </div>
+            <div class="col-2">
+            <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads – Full Stable Release','Download – Archive');">
+                <select name="download_format" style="width:210px;">
+                    <option value="">Select your format</option>
+                    <option value="1.4.0.0/magento-1.4.0.0-rc1.zip" class="zip">1.4.0.0-rc1.zip (21,3 Mb)</option>
+                    <option value="1.4.0.0/magento-1.4.0.0-rc1.tar.gz" class="tar.gz">1.4.0.0-rc1.tar.gz (13,5 Mb)</option>
+                    <option value="1.4.0.0/magento-1.4.0.0-rc1.tar.bz2" class="tar.bz2">1.4.0.0-rc1.tar.bz2 (10,9 Mb)</option>
+                </select>
+                                &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                            </form>
+            </div>
+        </div></li>
+        <li class="release-additional"><div class="col2-set">
+            <div class="col-1">
+                <strong>ver 1.4.0.0-beta1</strong> - Added December 8, 2009
+                &nbsp;<a href="http://www.magentocommerce.com/download/release_notes#Release%20Notes%20-%20Magento%201.4.0.0-beta1%20(December%208,%202009)" title="1.4.0.0-beta1 Release Notes" class="release-icon">&nbsp;</a>
+            </div>
+            <div class="col-2">
+            <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads – Full Stable Release','Download – Archive');">
+                <select name="download_format" style="width:210px;">
+                    <option value="">Select your format</option>
+                    <option value="1.4.0.0/magento-1.4.0.0-beta1.zip" class="zip">1.4.0.0-beta1.zip (22,3 Mb)</option>
+                    <option value="1.4.0.0/magento-1.4.0.0-beta1.tar.gz" class="tar.gz">1.4.0.0-beta1.tar.gz (13,9 Mb)</option>
+                    <option value="1.4.0.0/magento-1.4.0.0-beta1.tar.bz2" class="tar.bz2">1.4.0.0-beta1.tar.bz2 (11,3 Mb)</option>
+                </select>
+                                &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                            </form>
+            </div>
+        </div></li>
+        <li class="release-additional"><div class="col2-set">
+            <div class="col-1">
+                <strong>ver 1.4.0.0-alpha3</strong> - Added October 6, 2009
+                &nbsp;<a href="http://www.magentocommerce.com/download/release_notes#Release%20Notes%20-%20Magento%201.4.0.0-alpha3%20(October%206,%202009)" title="1.4.0.0-alpha3 Release Notes" class="release-icon">&nbsp;</a>
+            </div>
+            <div class="col-2">
+            <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads – Full Stable Release','Download – Archive');">
+                <select name="download_format" style="width:210px;">
+                    <option value="">Select your format</option>
+                    <option value="1.4.0.0/magento-1.4.0.0-alpha3.zip" class="zip">1.4.0.0-alpha3.zip (22,3 Mb)</option>
+                    <option value="1.4.0.0/magento-1.4.0.0-alpha3.tar.gz" class="tar.gz">1.4.0.0-alpha3.tar.gz (13,9 Mb)</option>
+                    <option value="1.4.0.0/magento-1.4.0.0-alpha3.tar.bz2" class="tar.bz2">1.4.0.0-alpha3.tar.bz2 (11,3 Mb)</option>
+                </select>
+                                &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                            </form>
+            </div>
+        </div></li>
+        <li class="release-additional"><div class="col2-set">
+            <div class="col-1">
+                <strong>ver 1.4.0.0-alpha2</strong> - Added September 25, 2009
+                &nbsp;<a href="http://www.magentocommerce.com/download/release_notes#Release%20Notes%20-%20Magento%201.4.0.0-alpha2%20(September%2025,%202009)" title="1.4.0.0-alpha2 Release Notes" class="release-icon">&nbsp;</a>
+            </div>
+            <div class="col-2">
+            <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads – Full Stable Release','Download – Archive');">
+                <select name="download_format" style="width:210px;">
+                    <option value="">Select your format</option>
+                    <option value="1.4.0.0/magento-1.4.0.0-alpha2.zip" class="zip">1.4.0.0-alpha2.zip (19,5 Mb)</option>
+                    <option value="1.4.0.0/magento-1.4.0.0-alpha2.tar.gz" class="tar.gz">1.4.0.0-alpha2.tar.gz (11,9 Mb)</option>
+                    <option value="1.4.0.0/magento-1.4.0.0-alpha2.tar.bz2" class="tar.bz2">1.4.0.0-alpha2.tar.bz2 (9,9 Mb)</option>
+                </select>
+                                &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                            </form>
+            </div>
+        </div></li>
+        <li class="release-additional"><div class="col2-set">
+            <div class="col-1">
+                <strong>ver 1.4.0.0-alpha1</strong> - Added August 11, 2009
+                &nbsp;<a href="http://www.magentocommerce.com/download/release_notes#Release%20Notes%20-%20Magento%201.4.0.0-alpha1%20(August%2011,%202009)" title="1.4.0.0-alpha1 Release Notes" class="release-icon">&nbsp;</a>
+            </div>
+            <div class="col-2">
+            <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads – Full Stable Release','Download – Archive');">
+                <select name="download_format" style="width:210px;">
+                    <option value="">Select your format</option>
+                    <option value="1.4.0.0/magento-1.4.0.0-alpha1.zip" class="zip">1.4.0.0-alpha1.zip (19,5 Mb)</option>
+                    <option value="1.4.0.0/magento-1.4.0.0-alpha1.tar.gz" class="tar.gz">1.4.0.0-alpha1.tar.gz (11,9 Mb)</option>
+                    <option value="1.4.0.0/magento-1.4.0.0-alpha1.tar.bz2" class="tar.bz2">1.4.0.0-alpha1.tar.bz2 (9,9 Mb)</option>
+                </select>
+                                &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                            </form>
+            </div>
+        </div></li>
+    </ul>
+    <h3 class="light-grey-head">ver 1.3.3.0</h3>
+    <ul class="release-list">
+       <li class="alt"><div class="col2-set">
+            <div class="col-1">
+                <strong>ver 1.3.3.0</strong> - Added April 23, 2010
+                &nbsp;<a href="http://www.magentocommerce.com/download/release_notes#Release%20Notes%20-%20Magento%201.3.3.0%20(April%2023,%202010)" title="1.3.3.0 Release Notes" class="release-icon">&nbsp;</a>
+            </div>
+            <div class="col-2">
+            <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads – Full Stable Release','Download – Archive');">
+                <select name="download_format" style="width:210px;">
+                    <option value="">Select your format</option>
+                    <option value="1.3.3.0/magento-1.3.3.0.zip" class="zip">magento-1.3.3.0.zip (16,5 Mb)</option>
+                    <option value="1.3.3.0/magento-1.3.3.0.tar.gz" class="tar.gz">magento-1.3.3.0.tar.gz (10,6 Mb)</option>
+                    <option value="1.3.3.0/magento-1.3.3.0.tar.bz2" class="tar.bz2">magento-1.3.3.0.tar.bz2 (8,9 Mb)</option>
+                </select>
+                                &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                            </form>
+            </div>
+        </div></li>
+        <li class="release-additional"><div class="col2-set">
+            <div class="col-1">
+                <strong>ver 1.3.2.4</strong> - Added September 23, 2009
+                &nbsp;<a href="http://www.magentocommerce.com/download/release_notes#Release%20Notes%20-%20Magento%201.3.2.4%20(September%2023,%202009)" title="1.3.2.4 Release Notes" class="release-icon">&nbsp;</a>
+            </div>
+            <div class="col-2">
+            <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads – Full Stable Release','Download – Archive');">
+                <select name="download_format" style="width:210px;">
+                    <option value="">Select your format</option>
+                    <option value="1.3.2.4/magento-1.3.2.4.zip" class="zip">magento-1.3.2.4.zip (16,5 Mb)</option>
+                    <option value="1.3.2.4/magento-1.3.2.4.tar.gz" class="tar.gz">magento-1.3.2.4.tar.gz (10,6 Mb)</option>
+                    <option value="1.3.2.4/magento-1.3.2.4.tar.bz2" class="tar.bz2">magento-1.3.2.4.tar.bz2 (8,9 Mb)</option>
+                </select>
+                                &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                            </form>
+            </div>
+        </div></li>
+        <li class="release-additional"><div class="col2-set">
+            <div class="col-1">
+                <strong>ver 1.3.2.3</strong> - Added July 22, 2009
+                &nbsp;<a href="http://www.magentocommerce.com/download/release_notes#Release%20Notes%20-%20Magento%201.3.2.3%20(July%2022,%202009)" title="1.3.2.3 Release Notes" class="release-icon">&nbsp;</a>
+            </div>
+            <div class="col-2">
+            <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads – Full Stable Release','Download – Archive');">
+                <select name="download_format" style="width:210px;">
+                    <option value="">Select your format</option>
+                    <option value="1.3.2.3/magento-1.3.2.3.zip" class="zip">magento-1.3.2.3.zip (16,5 Mb)</option>
+                    <option value="1.3.2.3/magento-1.3.2.3.tar.gz" class="tar.gz">magento-1.3.2.3.tar.gz (10,6 Mb)</option>
+                    <option value="1.3.2.3/magento-1.3.2.3.tar.bz2" class="tar.bz2">magento-1.3.2.3.tar.bz2 (8,9 Mb)</option>
+                </select>
+                                &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                            </form>
+            </div>
+        </div></li>
+        <li class="release-additional"><div class="col2-set">
+            <div class="col-1">
+                <strong>ver 1.3.2.2</strong> - Added July 1, 2009
+                &nbsp;<a href="http://www.magentocommerce.com/download/release_notes#Release%20Notes%20-%20Magento%201.3.2.2%20(July%201,%202009)" title="1.3.2.2 Release Notes" class="release-icon">&nbsp;</a>
+            </div>
+            <div class="col-2">
+            <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads – Full Stable Release','Download – Archive');">
+                <select name="download_format" style="width:210px;">
+                    <option value="">Select your format</option>
+                    <option value="1.3.2.2/magento-1.3.2.2.zip" class="zip">magento-1.3.2.2.zip (16,5 Mb)</option>
+                    <option value="1.3.2.2/magento-1.3.2.2.tar.gz" class="tar.gz">magento-1.3.2.2.tar.gz (10,6 Mb)</option>
+                    <option value="1.3.2.2/magento-1.3.2.2.tar.bz2" class="tar.bz2">magento-1.3.2.2.tar.bz2 (8,9 Mb)</option>
+                </select>
+                                &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                            </form>
+            </div>
+        </div></li>
+        <li class="release-additional"><div class="col2-set">
+            <div class="col-1">
+                <strong>ver 1.3.2.1</strong> - Added June 1, 2009
+                &nbsp;<a href="http://www.magentocommerce.com/download/release_notes#Release%20Notes%20-%20Magento%201.3.2.1%20(June%201,%202009)" title="1.3.2.1 Release Notes" class="release-icon">&nbsp;</a>
+            </div>
+            <div class="col-2">
+            <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads – Full Stable Release','Download – Archive');">
+                <select name="download_format" style="width:210px;">
+                    <option value="">Select your format</option>
+                    <option value="1.3.2.1/magento-1.3.2.1.zip" class="zip">magento-1.3.2.1.zip (16,5 Mb)</option>
+                    <option value="1.3.2.1/magento-1.3.2.1.tar.gz" class="tar.gz">magento-1.3.2.1.tar.gz (10,6 Mb)</option>
+                    <option value="1.3.2.1/magento-1.3.2.1.tar.bz2" class="tar.bz2">magento-1.3.2.1.tar.bz2 (8,9 Mb)</option>
+                </select>
+                                &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                            </form>
+            </div>
+        </div></li>
+        <li class="release-additional"><div class="col2-set">
+            <div class="col-1">
+                <strong>ver 1.3.2</strong> - Added May 29, 2009
+                &nbsp;<a href="http://www.magentocommerce.com/download/release_notes#Release%20Notes%20-%20Magento%201.3.2%20(May%2029,%202009)" title="1.3.2 Release Notes" class="release-icon">&nbsp;</a>
+            </div>
+            <div class="col-2">
+            <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads – Full Stable Release','Download – Archive');">
+                <select name="download_format" style="width:210px;">
+                    <option value="">Select your format</option>
+                    <option value="1.3.2/magento-1.3.2.zip" class="zip">magento-1.3.2.zip (16,5 Mb)</option>
+                    <option value="1.3.2/magento-1.3.2.tar.gz" class="tar.gz">magento-1.3.2.tar.gz (10,6 Mb)</option>
+                    <option value="1.3.2/magento-1.3.2.tar.bz2" class="tar.bz2">magento-1.3.2.tar.bz2 (8,9 Mb)</option>
+                </select>
+                                &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                            </form>
+            </div>
+        </div></li>
+        <li class="release-additional"><div class="col2-set">
+            <div class="col-1">
+                <strong>ver 1.3.1.1</strong> - Added May 19, 2009
+                &nbsp;<a href="http://www.magentocommerce.com/download/release_notes#Release%20Notes%20-%20Magento%201.3.1.1%20(May%2019,%202009)" title="1.3.1.1 Release Notes" class="release-icon">&nbsp;</a>
+            </div>
+            <div class="col-2">
+            <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads – Full Stable Release','Download – Archive');">
+                <select name="download_format" style="width:210px;">
+                    <option value="">Select your format</option>
+                    <option value="1.3.1.1/magento-1.3.1.1.zip" class="zip">magento-1.3.1.1.zip (16,5 Mb)</option>
+                    <option value="1.3.1.1/magento-1.3.1.1.tar.gz" class="tar.gz">magento-1.3.1.1.tar.gz (10,6 Mb)</option>
+                    <option value="1.3.1.1/magento-1.3.1.1.tar.bz2" class="tar.bz2">magento-1.3.1.1.tar.bz2 (8,9 Mb)</option>
+                </select>
+                                &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                            </form>
+            </div>
+        </div></li>
+        <li class="release-additional"><div class="col2-set">
+            <div class="col-1">
+                <strong>ver 1.3.1</strong> - Added April 17, 2009
+                &nbsp;<a href="http://www.magentocommerce.com/download/release_notes#Release%20Notes%20-%20Magento%201.3.1%20(April%2017,%202009)" title="1.3.1 Release Notes" class="release-icon">&nbsp;</a>
+            </div>
+            <div class="col-2">
+            <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads – Full Stable Release','Download – Archive');">
+                <select name="download_format" style="width:210px;">
+                    <option value="">Select your format</option>
+                    <option value="1.3.1/magento-1.3.1.zip" class="zip">magento-1.3.1.zip (16,5 Mb)</option>
+                    <option value="1.3.1/magento-1.3.1.tar.gz" class="tar.gz">magento-1.3.1.tar.gz (10,6 Mb)</option>
+                    <option value="1.3.1/magento-1.3.1.tar.bz2" class="tar.bz2">magento-1.3.1.tar.bz2 (8,9 Mb)</option>
+                </select>
+                                &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                            </form>
+            </div>
+        </div></li>
+        <li class="release-additional"><div class="col2-set">
+            <div class="col-1">
+                <strong>ver 1.3.0</strong> - Added March 30, 2009
+                &nbsp;<a href="http://www.magentocommerce.com/download/release_notes#Release%20Notes%20-%20Magento%201.3.0%20(March%2030,%202009)" title="1.3.0 Release Notes" class="release-icon">&nbsp;</a>
+            </div>
+            <div class="col-2">
+            <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads – Full Stable Release','Download – Archive');">
+                <select name="download_format" style="width:210px;">
+                    <option value="">Select your format</option>
+                    <option value="1.3.0/magento-1.3.0.zip" class="zip">magento-1.3.0.zip (16,5 Mb)</option>
+                    <option value="1.3.0/magento-1.3.0.tar.gz" class="tar.gz">magento-1.3.0.tar.gz (10,6 Mb)</option>
+                    <option value="1.3.0/magento-1.3.0.tar.bz2" class="tar.bz2">magento-1.3.0.tar.bz2 (8,9 Mb)</option>
+                </select>
+                                &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                            </form>
+            </div>
+        </div></li>
+        <li class="release-additional"><div class="col2-set">
+            <div class="col-1">
+                <strong>ver 1.2.1.2</strong> - Added March 3, 2009
+                &nbsp;<a href="http://www.magentocommerce.com/download/release_notes#Release%20Notes%20-%20Magento%201.2.1.2%20(March%203,%202009)" title="1.2.1.2 Release Notes" class="release-icon">&nbsp;</a>
+            </div>
+            <div class="col-2">
+            <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads – Full Stable Release','Download – Archive');">
+                <select name="download_format" style="width:210px;">
+                    <option value="">Select your format</option>
+                    <option value="1.2.1.2/magento-1.2.1.2.zip" class="zip">magento-1.2.1.2.zip (16,5 Mb)</option>
+                    <option value="1.2.1.2/magento-1.2.1.2.tar.gz" class="tar.gz">magento-1.2.1.2.tar.gz (10,6 Mb)</option>
+                    <option value="1.2.1.2/magento-1.2.1.2.tar.bz2" class="tar.bz2">magento-1.2.1.2.tar.bz2 (8,9 Mb)</option>
+                </select>
+                                &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                            </form>
+            </div>
+        </div></li>
+        <li class="release-additional"><div class="col2-set">
+            <div class="col-1">
+                <strong>ver 1.2.1.1</strong> - Added February 23, 2009
+                &nbsp;<a href="http://www.magentocommerce.com/download/release_notes#Release%20Notes%20-%20Magento%201.2.1.1%20(February%223,%202009)" title="1.2.1.1 Release Notes" class="release-icon">&nbsp;</a>
+            </div>
+            <div class="col-2">
+            <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads – Full Stable Release','Download – Archive');">
+                <select name="download_format" style="width:210px;">
+                    <option value="">Select your format</option>
+                    <option value="1.2.1.1/magento-1.2.1.1.zip" class="zip">magento-1.2.1.1.zip (16,5 Mb)</option>
+                    <option value="1.2.1.1/magento-1.2.1.1.tar.gz" class="tar.gz">magento-1.2.1.1.tar.gz (10,6 Mb)</option>
+                    <option value="1.2.1.1/magento-1.2.1.1.tar.bz2" class="tar.bz2">magento-1.2.1.1.tar.bz2 (8,9 Mb)</option>
+                </select>
+                                &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                            </form>
+            </div>
+        </div></li>
+        <li class="release-additional"><div class="col2-set">
+            <div class="col-1">
+                <strong>ver 1.2.1</strong> - Added February 2, 2009
+                &nbsp;<a href="http://www.magentocommerce.com/download/release_notes#Release%20Notes%20-%20Magento%201.2.1%20(February%202,%202009)" title="1.2.1 Release Notes" class="release-icon">&nbsp;</a>
+            </div>
+            <div class="col-2">
+            <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads – Full Stable Release','Download – Archive');">
+                <select name="download_format" style="width:210px;">
+                    <option value="">Select your format</option>
+                    <option value="1.2.1/magento-1.2.1.zip" class="zip">magento-1.2.1.zip (16,5 Mb)</option>
+                    <option value="1.2.1/magento-1.2.1.tar.gz" class="tar.gz">magento-1.2.1.tar.gz (10,6 Mb)</option>
+                    <option value="1.2.1/magento-1.2.1.tar.bz2" class="tar.bz2">magento-1.2.1.tar.bz2 (8,9 Mb)</option>
+                </select>
+                                &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                            </form>
+            </div>
+        </div></li>
+        <li class="release-additional"><div class="col2-set">
+            <div class="col-1">
+                <strong>ver 1.2.0.3</strong> - Added January 23, 2009
+                &nbsp;<a href="http://www.magentocommerce.com/download/release_notes#Release%20Notes%20-%20Magento%201.2.0.3%20(January%2023,%202009)" title="1.2.0.3 Release Notes" class="release-icon">&nbsp;</a>
+            </div>
+            <div class="col-2">
+            <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads – Full Stable Release','Download – Archive');">
+                <select name="download_format" style="width:210px;">
+                    <option value="">Select your format</option>
+                    <option value="1.2.0.3/magento-1.2.0.3.zip" class="zip">magento-1.2.0.3.zip (16,5 Mb)</option>
+                    <option value="1.2.0.3/magento-1.2.0.3.tar.gz" class="tar.gz">magento-1.2.0.3.tar.gz (10,6 Mb)</option>
+                    <option value="1.2.0.3/magento-1.2.0.3.tar.bz2" class="tar.bz2">magento-1.2.0.3.tar.bz2 (8,9 Mb)</option>
+                </select>
+                                &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                            </form>
+            </div>
+        </div></li>
+        <li class="release-additional"><div class="col2-set">
+            <div class="col-1">
+                <strong>ver 1.2.0.2</strong> - Added January 12, 2009
+                &nbsp;<a href="http://www.magentocommerce.com/download/release_notes#Release%20Notes%20-%20Magento%201.2.0.2%20(January%2012,%202009)" title="1.2.0.2 Release Notes" class="release-icon">&nbsp;</a>
+            </div>
+            <div class="col-2">
+            <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads – Full Stable Release','Download – Archive');">
+                <select name="download_format" style="width:210px;">
+                    <option value="">Select your format</option>
+                    <option value="1.2.0.2/magento-1.2.0.2.zip" class="zip">magento-1.2.0.2.zip (16,5 Mb)</option>
+                    <option value="1.2.0.2/magento-1.2.0.2.tar.gz" class="tar.gz">magento-1.2.0.2.tar.gz (10,6 Mb)</option>
+                    <option value="1.2.0.2/magento-1.2.0.2.tar.bz2" class="tar.bz2">magento-1.2.0.2.tar.bz2 (8,9 Mb)</option>
+                </select>
+                                &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                            </form>
+            </div>
+        </div></li>
+        <li class="release-additional"><div class="col2-set">
+            <div class="col-1">
+                <strong>ver 1.2.0.1</strong> - Added December 30, 2008
+                &nbsp;<a href="http://www.magentocommerce.com/download/release_notes#Release%20Notes%20-%20Magento%201.2.0.1%20(December%2030,%202008)" title="1.2.0.1 Release Notes" class="release-icon">&nbsp;</a>
+            </div>
+            <div class="col-2">
+            <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads – Full Stable Release','Download – Archive');">
+                <select name="download_format" style="width:210px;">
+                    <option value="">Select your format</option>
+                    <option value="1.2.0.1/magento-1.2.0.1.zip" class="zip">magento-1.2.0.1.zip (16,5 Mb)</option>
+                    <option value="1.2.0.1/magento-1.2.0.1.tar.gz" class="tar.gz">magento-1.2.0.1.tar.gz (10,6 Mb)</option>
+                    <option value="1.2.0.1/magento-1.2.0.1.tar.bz2" class="tar.bz2">magento-1.2.0.1.tar.bz2 (8,9 Mb)</option>
+                </select>
+                                &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                            </form>
+            </div>
+        </div></li>
+        <li class="release-additional"><div class="col2-set">
+            <div class="col-1">
+                <strong>ver 1.2.0</strong> - Added December 29, 2008
+                &nbsp;<a href="http://www.magentocommerce.com/download/release_notes#Release%20Notes%20-%20Magento%201.2.0%20(December%2029,%202008)" title="1.2.0 Release Notes" class="release-icon">&nbsp;</a>
+            </div>
+            <div class="col-2">
+            <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads – Full Stable Release','Download – Archive');">
+                <select name="download_format" style="width:210px;">
+                    <option value="">Select your format</option>
+                    <option value="1.2.0/magento-1.2.0.zip" class="zip">magento-1.2.0.zip (16,5 Mb)</option>
+                    <option value="1.2.0/magento-1.2.0.tar.gz" class="tar.gz">magento-1.2.0.tar.gz (10,6 Mb)</option>
+                    <option value="1.2.0/magento-1.2.0.tar.bz2" class="tar.bz2">magento-1.2.0.tar.bz2 (8,9 Mb)</option>
+                </select>
+                                &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                            </form>
+            </div>
+        </div></li>
+        <li class="release-additional"><div class="col2-set">
+            <div class="col-1">
+                <strong>ver 1.1.8</strong> - Added November 26, 2008
+                &nbsp;<a href="http://www.magentocommerce.com/download/release_notes#Release%20Notes%20-%20Magento%201.1.8%20(November%2026,%202008)" title="1.1.8 Release Notes" class="release-icon">&nbsp;</a>
+            </div>
+            <div class="col-2">
+            <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads – Full Stable Release','Download – Archive');">
+                <select name="download_format" style="width:210px;">
+                    <option value="">Select your format</option>
+                    <option value="1.1.8/magento-1.1.8.zip" class="zip">magento-1.1.8.zip (15,0 Mb)</option>
+                    <option value="1.1.8/magento-1.1.8.tar.gz" class="tar.gz">magento-1.1.8.tar.gz (9,4 Mb)</option>
+                    <option value="1.1.8/magento-1.1.8.tar.bz2" class="tar.bz2">magento-1.1.8.tar.bz2 (7,9 Mb)</option>
+                </select>
+                                &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                            </form>
+            </div>
+        </div></li>
+        <li class="release-additional"><div class="col2-set">
+            <div class="col-1">
+                <strong>ver 1.1.7</strong> - Added November 19, 2008
+                &nbsp;<a href="http://www.magentocommerce.com/download/release_notes#Release%20Notes%20-%20Magento%201.1.7%20(November%2019,%202008)" title="1.1.7 Release Notes" class="release-icon">&nbsp;</a>
+            </div>
+            <div class="col-2">
+            <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads – Full Stable Release','Download – Archive');">
+                <select name="download_format" style="width:210px;">
+                    <option value="">Select your format</option>
+                    <option value="1.1.7/magento-1.1.7.zip" class="zip">magento-1.1.7.zip (15,0 Mb)</option>
+                    <option value="1.1.7/magento-1.1.7.tar.gz" class="tar.gz">magento-1.1.7.tar.gz (9,4 Mb)</option>
+                    <option value="1.1.7/magento-1.1.7.tar.bz2" class="tar.bz2">magento-1.1.7.tar.bz2 (7,9 Mb)</option>
+                </select>
+                                &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                            </form>
+            </div>
+        </div></li>
+        <li class="release-additional"><div class="col2-set">
+            <div class="col-1">
+                <strong>ver 1.1.6</strong> - Added September 17, 2008
+                &nbsp;<a href="http://www.magentocommerce.com/download/release_notes#Release%20Notes%20-%20Magento%201.1.6%20(September%2017,%202008)" title="1.1.6 Release Notes" class="release-icon">&nbsp;</a>
+            </div>
+            <div class="col-2">
+            <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads – Full Stable Release','Download – Archive');">
+                <select name="download_format" style="width:210px;">
+                    <option value="">Select your format</option>
+                    <option value="1.1.6/magento-1.1.6.zip" class="zip">magento-1.1.6.zip (15,0 Mb)</option>
+                    <option value="1.1.6/magento-1.1.6.tar.gz" class="tar.gz">magento-1.1.6.tar.gz (9,3 Mb)</option>
+                    <option value="1.1.6/magento-1.1.6.tar.bz2" class="tar.bz2">magento-1.1.6.tar.bz2 (7,9 Mb)</option>
+                </select>
+                                &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                            </form>
+            </div>
+        </div></li>
+        <li class="release-additional"><div class="col2-set">
+            <div class="col-1">
+                <strong>ver 1.1.5</strong> - Added September 15, 2008
+                &nbsp;<a href="http://www.magentocommerce.com/download/release_notes#Release%20Notes%20-%20Magento%201.1.5%20(September%2015,%202008)" title="1.1.5 Release Notes" class="release-icon">&nbsp;</a>
+            </div>
+            <div class="col-2">
+            <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads – Full Stable Release','Download – Archive');">
+                <select name="download_format" style="width:210px;">
+                    <option value="">Select your format</option>
+                    <option value="1.1.5/magento-1.1.5.zip" class="zip">magento-1.1.5.zip (15,0 Mb)</option>
+                    <option value="1.1.5/magento-1.1.5.tar.gz" class="tar.gz">magento-1.1.5.tar.gz (9,3 Mb)</option>
+                    <option value="1.1.5/magento-1.1.5.tar.bz2" class="tar.bz2">magento-1.1.5.tar.bz2 (7,9 Mb)</option>
+                </select>
+                                &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                            </form>
+            </div>
+        </div></li>
+        <li class="release-additional"><div class="col2-set">
+            <div class="col-1">
+                <strong>ver 1.1.4</strong> - Added September 2, 2008
+                &nbsp;<a href="http://www.magentocommerce.com/download/release_notes#Release%20Notes%20-%20Magento%201.1.4%20(September%202,%202008)" title="1.1.4 Release Notes" class="release-icon">&nbsp;</a>
+            </div>
+            <div class="col-2">
+            <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads – Full Stable Release','Download – Archive');">
+                <select name="download_format" style="width:210px;">
+                    <option value="">Select your format</option>
+                    <option value="1.1.4/magento-1.1.4.zip" class="zip">magento-1.1.4.zip (14,0 Mb)</option>
+                    <option value="1.1.4/magento-1.1.4.tar.gz" class="tar.gz">magento-1.1.4.tar.gz (8,4 Mb)</option>
+                    <option value="1.1.4/magento-1.1.4.tar.bz2" class="tar.bz2">magento-1.1.4.tar.bz2 (6,9 Mb)</option>
+                </select>
+                                &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                            </form>
+            </div>
+        </div></li>
+        <li class="release-additional"><div class="col2-set">
+            <div class="col-1">
+                <strong>ver 1.1.3</strong> - Added August 13, 2008
+                &nbsp;<a href="http://www.magentocommerce.com/download/release_notes#Release%20Notes%20-%20Magento%201.1.3%20(August%2013,%202008)" title="1.1.3 Release Notes" class="release-icon">&nbsp;</a>
+            </div>
+            <div class="col-2">
+                <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads – Full Stable Release','Download – Archive');">
+                <select name="download_format" style="width:210px;">
+                    <option value="">Select your format</option>
+                    <option value="1.1.3/magento-1.1.3.zip" class="zip">magento-1.1.3.zip (14,0 Mb)</option>
+                    <option value="1.1.3/magento-1.1.3.tar.gz" class="tar.gz">magento-1.1.3.tar.gz (8,4 Mb)</option>
+                    <option value="1.1.3/magento-1.1.3.tar.bz2" class="tar.bz2">magento-1.1.3.tar.bz2 (6,9 Mb)</option>
+                </select>
+                                &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                                </form>
+            </div>
+        </div></li>
+        <li class="release-additional"><div class="col2-set">
+            <div class="col-1">
+                <strong>ver 1.1.2</strong> - Added August 1, 2008
+                &nbsp;<a href="http://www.magentocommerce.com/download/release_notes#Release%20Notes%20-%20Magento%201.1.2%20(August%201,%202008)" title="1.1.2 Release Notes" class="release-icon">&nbsp;</a>
+            </div>
+            <div class="col-2">
+                <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads – Full Stable Release','Download – Archive');">
+                <select name="download_format" style="width:210px;">
+                    <option value="">Select your format</option>
+                    <option value="1.1.2/magento-1.1.2.zip" class="zip">magento-1.1.2.zip (14,0 Mb)</option>
+                    <option value="1.1.2/magento-1.1.2.tar.gz" class="tar.gz">magento-1.1.2.tar.gz (8,4 Mb)</option>
+                    <option value="1.1.2/magento-1.1.2.tar.bz2" class="tar.bz2">magento-1.1.2.tar.bz2 (6,9 Mb)</option>
+                </select>
+                                &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                                </form>
+            </div>
+        </div></li>
+        <li class="release-additional"><div class="col2-set">
+            <div class="col-1">
+                <strong>ver 1.1.1</strong> - Added July 24, 2008
+                &nbsp;<a href="http://www.magentocommerce.com/download/release_notes#Release%20Notes%20-%20Magento%201.1.1%20(July%2024,%202008)" title="1.1.1 Release Notes" class="release-icon">&nbsp;</a>
+            </div>
+            <div class="col-2">
+            <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads – Full Stable Release','Download – Archive');">
+                <select name="download_format" style="width:210px;">
+                    <option value="">Select your format</option>
+                    <option value="1.1.1/magento-1.1.1.zip" class="zip">magento-1.1.1.zip (13,0 Mb)</option>
+                    <option value="1.1.1/magento-1.1.1.tar.gz" class="tar.gz">magento-1.1.1.tar.gz (7,9 Mb)</option>
+                    <option value="1.1.1/magento-1.1.1.tar.bz2" class="tar.bz2">magento-1.1.1.tar.bz2 (6,6 Mb)</option>
+                </select>
+                                &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                            </form>
+            </div>
+        </div></li>
+        <li class="release-additional"><div class="col2-set">
+            <div class="col-1">
+                <strong>Beta version 1.1.0</strong> - Added July 12, 2008
+            </div>
+            <div class="col-2">
+                <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads – Full Stable Release','Download – Archive');">
+                <select name="download_format" style="width:210px;">
+                    <option value="">Select your format</option>
+                    <option value="1.1.0/magento-1.1.0.zip" class="zip">magento-1.1.0.zip (13.0 Mb)</option>
+                    <option value="1.1.0/magento-1.1.0.tar.gz" class="tar.gz">magento-1.1.0.tar.gz (7.6 Mb)</option>
+                    <option value="1.1.0/magento-1.1.0.tar.bz2" class="tar.bz2">magento-1.1.0.tar.bz2 (6.3 Mb)</option>
+                </select>
+                                &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                                </form>
+            </div>
+        </div></li>
+        <li class="col2-set release-additional-red">
+            <div class="col-1 sample-data-row">Sample Data<br /><small>(must be installed prior to the basic Magento Installation)</small></div>
+            <div class="col-2">
+            <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads – Full Stable Release','Download – Archive');">
+                <select name="download_format" style="width:210px;">
+                    <option value="">Select your format</option>
+                    <option value="1.1.2/magento-sample-data-1.1.2.zip" class="zip">sample-data-1.1.2.zip (10,3 Mb)</option>
+                    <option value="1.1.2/magento-sample-data-1.1.2.tar.gz" class="tar.gz">sample-data-1.1.2.tar.gz (10,2 Mb)</option>
+                    <option value="1.1.2/magento-sample-data-1.1.2.tar.bz2" class="tar.bz2">sample-data-1.1.2.tar.bz2 (10,2 Mb)</option>
+                </select>
+                                &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                            </form>
+            </div>
+        </li>
+    </ul>
+    <h3 class="light-grey-head">ver 1.0.19870.6</h3>
+    <ul class="release-list">
+        <li class="alt"><div class="col2-set">
+            <div class="col-1">
+                <strong>ver 1.0.19870.6</strong> - Added September 2, 2008
+                &nbsp;<a href="http://www.magentocommerce.com/download/release_notes#Release%20Notes%20-%20Magento%201.0.19870.6%20(September%202,%202008)" title="1.0.19870.6 Release Notes" class="release-icon">&nbsp;</a>
+            </div>
+            <div class="col-2">
+            <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads – Full Stable Release','Download – Archive');">
+                <select name="download_format" style="width:210px;">
+                    <option value="">Select your format</option>
+                    <option value="1.0.19870/magento-1.0.19870.6.zip" class="zip">magento-1.0.19870.6.zip (11,4 Mb)</option>
+                    <option value="1.0.19870/magento-1.0.19870.6.tar.gz" class="tar.gz">magento-1.0.19870.6.tar.gz (7,1 Mb)</option>
+                    <option value="1.0.19870/magento-1.0.19870.6.tar.bz2" class="tar.bz2">magento-1.0.19870.6.tar.bz2 (5,8 Mb)</option>
+                </select>
+                                &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                            </form>
+            </div>
+        </div></li>
+        <li class="release-additional"><div class="col2-set">
+            <div class="col-1">
+                <strong>ver 1.0.19870.4</strong> - Added June 18, 2008
+                &nbsp;<a href="http://www.magentocommerce.com/download/release_notes#Release%20Notes%20-%20Magento%201.0.19870.4%20%20(June%2018,%202008)" title="1.0.19870.4 Release Notes" class="release-icon">&nbsp;</a>
+            </div>
+            <div class="col-2">
+            <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads – Full Stable Release','Download – Archive');">
+                <select name="download_format" style="width:210px;">
+                    <option value="">Select your format</option>
+                    <option value="1.0.19870/magento-1.0.19870.4.zip" class="zip">magento-1.0.19870.4.zip (11,4 Mb)</option>
+                    <option value="1.0.19870/magento-1.0.19870.4.tar.gz" class="tar.gz">magento-1.0.19870.4.tar.gz (7,1 Mb)</option>
+                    <option value="1.0.19870/magento-1.0.19870.4.tar.bz2" class="tar.bz2">magento-1.0.19870.4.tar.bz2 (5,8 Mb)</option>
+                </select>
+                                &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                            </form>
+            </div>
+        </div></li>
+        <li class="release-additional">
+            <div class="col2-set">
+                <div class="col-1">
+                    1.0.19870.2 - Added June 10, 2008
+                    &nbsp;<a href="http://www.magentocommerce.com/download/release_notes#Release%20Notes%20-%20Magento%201.0.19870.2%20%20(June%2010,%202008)" title="1.0.19870.2 Release Notes" class="release-icon">&nbsp;</a>
+                </div>
+                <div class="col-2">
+                <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads – Full Stable Release','Download – Archive');">
+                    <select name="download_format" style="width:210px;">
+                        <option value="">Select your format</option>
+                        <option value="1.0.19870/magento-1.0.19870.2.zip" class="zip">magento-1.0.19870.2.zip (11,4 Mb)</option>
+                        <option value="1.0.19870/magento-1.0.19870.2.tar.gz" class="tar.gz">magento-1.0.19870.2.tar.gz (7,1 Mb)</option>
+                        <option value="1.0.19870/magento-1.0.19870.2.tar.bz2" class="tar.bz2">magento-1.0.19870.2.tar.bz2 (5,8 Mb)</option>
+                    </select>
+                                        &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                                    </form>
+                </div>
+            </div>
+        </li>
+        <li class="release-additional">
+            <div class="col2-set">
+                <div class="col-1">
+                    1.0.19870.1 - Added May 22, 2008
+                    &nbsp;<a href="http://www.magentocommerce.com/download/release_notes#Release%20Notes%20-%20Magento%201.0.19870.1%20%20(May%2022,%202008)" title="1.0.19870.1 Release Notes" class="release-icon">&nbsp;</a>
+                </div>
+                <div class="col-2">
+                <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads – Full Stable Release','Download – Archive');">
+                    <select name="download_format" style="width:210px;">
+                        <option value="">Select your format</option>
+                        <option value="1.0.19870/magento-1.0.19870.1.zip" class="zip">magento-1.0.19870.1.zip (11,4 Mb)</option>
+                        <option value="1.0.19870/magento-1.0.19870.1.tar.gz" class="tar.gz">magento-1.0.19870.1.tar.gz (7,1 Mb)</option>
+                        <option value="1.0.19870/magento-1.0.19870.1.tar.bz2" class="tar.bz2">magento-1.0.19870.1.tar.bz2 (5,8 Mb)</option>
+                    </select>
+                                        &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                                    </form>
+                </div>
+            </div>
+        </li>
+        <li class="release-additional">
+            <div class="col2-set">
+                <div class="col-1">
+                    1.0.19870 - Added May 8, 2008
+                    &nbsp;<a href="http://www.magentocommerce.com/download/release_notes#Release%20Notes%20-%20Magento%201.0.19870%20%20(May%208,%202008)" title="1.0.19870 Release Notes" class="release-icon">&nbsp;</a>
+                </div>
+                <div class="col-2">
+                <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads – Full Stable Release','Download – Archive');">
+                    <select name="download_format" style="width:210px;">
+                        <option value="">Select your format</option>
+                        <option value="1.0.19870/magento-1.0.19870.zip" class="zip">magento-1.0.19870.zip (11,4 Mb)</option>
+                        <option value="1.0.19870/magento-1.0.19870.tar.gz" class="tar.gz">magento-1.0.19870.tar.gz (7,1 Mb)</option>
+                        <option value="1.0.19870/magento-1.0.19870.tar.bz2" class="tar.bz2">magento-1.0.19870.tar.bz2 (5,8 Mb)</option>
+                    </select>
+                                        &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                                    </form>
+                </div>
+            </div>
+        </li>
+        <li class="col2-set release-additional-red">
+            <div class="col-1 sample-data-row">Sample Data<br /><small>(must be installed prior to the basic Magento Installation)</small></div>
+            <div class="col-2">
+            <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads – Full Stable Release','Download – Archive');">
+                <select name="download_format" style="width:210px;">
+                    <option value="">Select your format</option>
+                    <option value="1.0.19870/magento-sample-data-1.0.19870.zip" class="zip">sample-data-1.0.19870.zip (37,0 Mb)</option>
+                    <option value="1.0.19870/magento-sample-data-1.0.19870.tar.gz" class="tar.gz">sample-data-1.0.19870.tar.gz (36,8 Mb)</option>
+                    <option value="1.0.19870/magento-sample-data-1.0.19870.tar.bz2" class="tar.bz2">sample-data-1.0.19870.tar.bz2 (35,1 Mb)</option>
+                </select>
+                                &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                            </form>
+            </div>
+        </li>
+    </ul>
+    <h3 class="light-grey-head">ver. 1.0.19700</h3>
+    <ul class="release-list">
+        <li class="alt"><div class="col2-set">
+            <div class="col-1">
+                <strong>ver. 1.0.19700</strong> - Added April 28, 2008
+                &nbsp;<a href="http://www.magentocommerce.com/download/release_notes#Release%20Notes%20-%20Magento%201.0%20with%20Revision%2019700%20(April%2028,%202008)" title="1.0.19700 Release Notes" class="release-icon">&nbsp;</a>
+            </div>
+            <div class="col-2">
+                <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads – Full Stable Release','Download – Archive');">
+                    <select name="download_format" style="width:210px;">
+                        <option value="">Select your format</option>
+                        <option value="1.0.19700/magento-downloader-1.0.19700.zip" class="zip">downloader-1.0.19700.zip (708,0 Kb)</option>
+                        <option value="1.0.19700/magento-downloader-1.0.19700.tar.gz" class="tar.gz">downloader-1.0.19700.tar.gz (581,8 Kb)</option>
+                        <option value="1.0.19700/magento-downloader-1.0.19700.tar.bz2" class="tar.bz2">downloader-1.0.19700.tar.bz2 (467,6 Kb)</option>
+                        <option value="1.0.19700/magento-1.0.19700.zip" class="zip">magento-1.0.19700.zip (11,4 Mb)</option>
+                        <option value="1.0.19700/magento-1.0.19700.tar.gz" class="tar.gz">magento-1.0.19700.tar.gz (7,1 Mb)</option>
+                        <option value="1.0.19700/magento-1.0.19700.tar.bz2" class="tar.bz2">magento-1.0.19700.tar.bz2 (5,8 Mb)</option>
+                    </select>
+                                        &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                                    </form>
+            </div>
+        </div></li>
+        <li class="release-additional">
+            <div class="col2-set">
+                <div class="col-1">
+                    Patch 1.0.19700
+                </div>
+                <div class="col-2">
+                    <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads – Full Stable Release','Download – Archive');">
+                        <select name="download_format" style="width:210px;">
+                            <option value="">Select your format</option>
+                            <option value="1.0.19700/patch1_1.0.19700.zip" class="zip">patch-1.0.19700.zip (2,3 Kb)</option>
+                            <option value="1.0.19700/patch1_1.0.19700.tar.gz" class="tar.gz">patch-1.0.19700.tar.gz (1,4 Kb)</option>
+                        </select>
+                                        &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                                    </form>
+                </div>
+            </div>
+        </li>
+        <li class="col2-set release-additional-red">
+            <div class="col-1 sample-data-row">Sample Data<br /><small>(must be installed prior to the basic Magento Installation)</small></div>
+            <div class="col-2">
+            <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads – Full Stable Release','Download – Archive');">
+                <select name="download_format" style="width:210px;">
+                    <option value="">Select your format</option>
+                    <option value="1.0.19700/magento-sample-data-1.0.19700.zip" class="zip">sample-data-1.0.19700.zip (37,0 Mb)</option>
+                    <option value="1.0.19700/magento-sample-data-1.0.19700.tar.gz" class="tar.gz">sample-data-1.0.19700.tar.gz (36,8 Mb)</option>
+                    <option value="1.0.19700/magento-sample-data-1.0.19700.tar.bz2" class="tar.bz2">sample-data-1.0.19700.tar.bz2 (35,1 Mb)</option>
+                </select>
+                                &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                            </form>
+            </div>
+        </li>
+    </ul>
+    <h3 class="light-grey-head">ver. 1.0</h3>
+    <ul class="release-list">
+        <li class="alt"><div class="col2-set">
+            <div class="col-1">
+                <strong>ver. 1.0</strong> - Added March 31, 2008
+                &nbsp;<a href="http://www.magentocommerce.com/download/release_notes#Release%20Notes%20-%20Magento%201.0%20(March%2031,%202008)" title="1.0 Release Notes" class="release-icon">&nbsp;</a>
+            </div>
+            <div class="col-2">
+                <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads – Full Stable Release','Download – Archive');">
+                    <select name="download_format" style="width:210px;">
+                        <option value="">Select your format</option>
+                        <option value="1.0/magento-downloader-1.0.zip" class="zip">downloader-1.0.zip (706,8 Kb)</option>
+                        <option value="1.0/magento-downloader-1.0.tar.gz" class="tar.gz">downloader-1.0.tar.gz (581,0 Kb)</option>
+                        <option value="1.0/magento-downloader-1.0.tar.bz2" class="tar.bz2">downloader-1.0.tar.bz2 (467,6 Kb)</option>
+                        <option value="1.0/magento-1.0.zip" class="zip">magento-1.0.zip (11,2 Mb)</option>
+                        <option value="1.0/magento-1.0.tar.gz" class="tar.gz">magento-1.0.tar.gz (7,0 Mb)</option>
+                        <option value="1.0/magento-1.0.tar.bz2" class="tar.bz2">magento-1.0.tar.bz2 (5,7 Mb)</option>
+                    </select>
+                                    &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                                </form>
+            </div>
+        </div></li>
+        <li class="col2-set release-additional-red">
+            <div class="col-1 sample-data-row">Sample Data<br /><small>(must be installed prior to the basic Magento Installation)</small></div>
+            <div class="col-2">
+            <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads – Full Stable Release','Download – Archive');">
+                <select name="download_format" style="width:210px;">
+                    <option value="">Select your format</option>
+                    <option value="1.0/magento-sample-data-1.0.zip" class="zip">sample-data-1.0.zip (37,0 Mb)</option>
+                    <option value="1.0/magento-sample-data-1.0.tar.gz" class="tar.gz">sample-data-1.0.tar.gz (36,8 Mb)</option>
+                    <option value="1.0/magento-sample-data-1.0.tar.bz2" class="tar.bz2">sample-data-1.0.tar.bz2 (35,1 Mb)</option>
+                </select>
+                                &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                            </form>
+            </div>
+        </li>
+    </ul>
+    <h3 class="light-grey-head">Preview  0.9.17740</h3>
+    <ul class="release-list">
+        <li class="alt"><div class="col2-set">
+            <div class="col-1">
+                <strong>Preview  0.9.17740</strong> - Added March 19, 2008
+                &nbsp;<a href="http://www.magentocommerce.com/download/release_notes#Release%20Notes%20-%20Magento%20Preview%200.9.17740%20(March%2019,%202008)" title="0.9.17740 Release Notes" class="release-icon">&nbsp;</a>
+            </div>
+            <div class="col-2">
+                <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads – Full Stable Release','Download – Archive');">
+                    <select name="download_format" style="width:210px;">
+                        <option value="">Select your format</option>
+                        <option value="0.9.17740/magento-installer-0.9.17740.zip" class="zip">installer-0.9.17740.zip (4,5 Mb)</option>
+                        <option value="0.9.17740/magento-installer-0.9.17740.tar.gz" class="tar.gz">installer-0.9.17740.tar.gz (3,0 Mb)</option>
+                        <option value="0.9.17740/magento-installer-0.9.17740.tar.bz2" class="tar.bz2">installer-0.9.17740.tar.bz2 (2,2 Mb)</option>
+                        <option value="0.9.17740/magento-0.9.17740.zip" class="zip">magento-0.9.17740.zip (10,9 Mb)</option>
+                        <option value="0.9.17740/magento-0.9.17740.tar.gz" class="tar.gz">magento-0.9.17740.tar.gz (6,7 Mb)</option>
+                        <option value="0.9.17740/magento-0.9.17740.tar.bz2" class="tar.bz2">magento-0.9.17740.tar.bz2 (5,4 Mb)</option>
+                    </select>
+                                    &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                                </form>
+            </div>
+        </div></li>
+        <li class="col2-set release-additional-red">
+            <div class="col-1 sample-data-row">Sample Data<br /><small>(must be installed prior to the basic Magento Installation)</small></div>
+            <div class="col-2">
+            <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads – Full Stable Release','Download – Archive');">
+                <select name="download_format" style="width:210px;">
+                    <option value="">Select your format</option>
+                    <option value="0.9.17740/magento-sample-data-0.9.17740.zip" class="zip">sample-data-0.9.17740.zip (37,1 Mb)</option>
+                    <option value="0.9.17740/magento-sample-data-0.9.17740.tar.gz" class="tar.gz">sample-data-0.9.17740.tar.gz (36,9 Mb)</option>
+                    <option value="0.9.17740/magento-sample-data-0.9.17740.tar.bz2" class="tar.bz2">sample-data-0.9.17740.tar.bz2 (35,2 Mb)</option>
+                </select>
+                                &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                            </form>
+            </div>
+        </li>
+    </ul>
+    <h3 class="light-grey-head">Preview  0.8.17240</h3>
+    <ul class="release-list">
+        <li class="alt"><div class="col2-set">
+            <div class="col-1">
+                <strong>Preview  0.8.17240</strong> - Added March 7, 2008
+                &nbsp;<a href="http://www.magentocommerce.com/download/release_notes#Release%20Notes%20-%20Magento%20Preview%200.8.17240%20(March%207,%202008)" title="0.8.17240 Release Notes" class="release-icon">&nbsp;</a>
+            </div>
+            <div class="col-2">
+                <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads – Full Stable Release','Download – Archive');">
+                    <select name="download_format" style="width:210px;">
+                        <option value="">Select your format</option>
+                        <option value="0.8.17240/magento-installer-0.8.17240.zip" class="zip">installer-0.8.17240.zip (4,4 Mb)</option>
+                        <option value="0.8.17240/magento-installer-0.8.17240.tar.gz" class="tar.gz">installer-0.8.17240.tar.gz (2,9 Mb)</option>
+                        <option value="0.8.17240/magento-installer-0.8.17240.tar.bz2" class="tar.bz2">installer-0.8.17240.tar.bz2 (2,1 Mb)</option>
+                        <option value="0.8.17240/magento-0.8.17240.zip" class="zip">magento-0.8.17240.zip (10,9 Mb)</option>
+                        <option value="0.8.17240/magento-0.8.17240.tar.gz" class="tar.gz">magento-0.8.17240.tar.gz (6,7 Mb)</option>
+                        <option value="0.8.17240/magento-0.8.17240.tar.bz2" class="tar.bz2">magento-0.8.17240.tar.bz2 (5,5 Mb)</option>
+                    </select>
+                                    &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                                </form>
+            </div>
+        </div></li>
+        <li class="col2-set release-additional-red">
+            <div class="col-1 sample-data-row">Sample Data<br /><small>(must be installed prior to the basic Magento Installation)</small></div>
+            <div class="col-2">
+            <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads – Full Stable Release','Download – Archive');">
+                <select name="download_format" style="width:210px;">
+                    <option value="">Select your format</option>
+                    <option value="0.8.17240/magento-sample-data-0.8.17240.zip" class="zip">sample-data-0.8.17240.zip (37,1 Mb)</option>
+                    <option value="0.8.17240/magento-sample-data-0.8.17240.tar.gz" class="tar.gz">sample-data-0.8.17240.tar.gz (36,9 Mb)</option>
+                    <option value="0.8.17240/magento-sample-data-0.8.17240.tar.bz2" class="tar.bz2">sample-data-0.8.17240.tar.bz2 (35,2 Mb)</option>
+                </select>
+                                &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                            </form>
+            </div>
+        </li>
+    </ul>
+    <h3 class="light-grey-head">Preview 0.8.16100</h3>
+    <ul class="release-list">
+        <li class="alt"><div class="col2-set">
+            <div class="col-1">
+                <strong>Preview 0.8.16100</strong> - Added February 13, 2008
+                &nbsp;<a href="http://www.magentocommerce.com/download/release_notes#Release%20Notes%20-%20Magento%20Preview%200.8.16100%20(February%2013,%202008)" title="0.8.16100 Release Notes" class="release-icon">&nbsp;</a>
+            </div>
+            <div class="col-2">
+                <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads – Full Stable Release','Download – Archive');">
+                    <select name="download_format" style="width:210px;">
+                        <option value="">Select your format</option>
+                        <option value="0.8.16100/magento-installer-0.8.16100.zip" class="zip">installer-0.8.16100.zip (4,1 Mb)</option>
+                        <option value="0.8.16100/magento-installer-0.8.16100.tar.gz" class="tar.gz">installer-0.8.16100.tar.gz (2,7 Mb)</option>
+                        <option value="0.8.16100/magento-installer-0.8.16100.tar.bz2" class="tar.bz2">installer-0.8.16100.tar.bz2 (1,9 Mb)</option>
+                        <option value="0.8.16100/magento-0.8.16100.zip" class="zip">magento-0.8.16100.zip (10,4 Mb)</option>
+                        <option value="0.8.16100/magento-0.8.16100.tar.gz" class="tar.gz">magento-0.8.16100.tar.gz (6,6 Mb)</option>
+                        <option value="0.8.16100/magento-0.8.16100.tar.bz2" class="tar.bz2">magento-0.8.16100.tar.bz2 (5,4 Mb)</option>
+                    </select>
+                                    &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                                </form>
+            </div>
+        </div></li>
+        <li class="col2-set release-additional-red">
+            <div class="col-1 sample-data-row">Sample Data<br /><small>(must be installed prior to the basic Magento Installation)</small></div>
+            <div class="col-2">
+            <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads – Full Stable Release','Download – Archive');">
+                <select name="download_format" style="width:210px;">
+                    <option value="">Select your format</option>
+                    <option value="0.8.16100/magento-sample-data-0.8.16100.zip" class="zip">sample-data-0.8.16100.zip (40,2 Mb)</option>
+                    <option value="0.8.16100/magento-sample-data-0.8.16100.tar.gz" class="tar.gz">sample-data-0.8.16100.tar.gz (39,8 Mb)</option>
+                    <option value="0.8.16100/magento-sample-data-0.8.16100.tar.bz2" class="tar.bz2">sample-data-0.8.16100.tar.bz2 (36,4 Mb)</option>
+                </select>
+                                &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                            </form>
+            </div>
+        </li>
+    </ul>
+    <h3 class="light-grey-head">Preview  0.7.15480</h3>
+    <ul class="release-list">
+        <li class="alt"><div class="col2-set">
+            <div class="col-1">
+                <strong>Preview  0.7.15480</strong> - Added January 29, 2008
+                &nbsp;<a href="http://www.magentocommerce.com/download/release_notes#Release%20Notes%20-%20Magento%20Preview%200.7.15480%20(January%2029,%202008)" title="0.7.15480 Release Notes" class="release-icon">&nbsp;</a>
+            </div>
+            <div class="col-2">
+                <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads – Full Stable Release','Download – Archive');">
+                    <select name="download_format" style="width:210px;">
+                        <option value="">Select your format</option>
+                        <option value="0.7.15480/magento-installer-0.7.15480.zip" class="zip">installer-0.7.15480.zip (4,1 Mb)</option>
+                        <option value="0.7.15480/magento-installer-0.7.15480.tar.gz" class="tar.gz">installer-0.7.15480.tar.gz (2,8 Mb)</option>
+                        <option value="0.7.15480/magento-installer-0.7.15480.tar.bz2" class="tar.bz2">installer-0.7.15480.tar.bz2 (2,0 Mb)</option>
+                        <option value="0.7.15480/magento-0.7.15480.zip" class="zip">magento-0.7.15480.zip (9,5 Mb)</option>
+                        <option value="0.7.15480/magento-0.7.15480.tar.gz" class="tar.gz">magento-0.7.15480.tar.gz (6,0 Mb)</option>
+                        <option value="0.7.15480/magento-0.7.15480.tar.bz2" class="tar.bz2">magento-0.7.15480.tar.bz2 (4,8 Mb)</option>
+                    </select>
+                                    &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                                </form>
+            </div>
+        </div></li>
+        <li class="col2-set release-additional-red">
+            <div class="col-1 sample-data-row">Sample Data<br /><small>(must be installed prior to the basic Magento Installation)</small></div>
+            <div class="col-2">
+            <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads – Full Stable Release','Download – Archive');">
+                <select name="download_format" style="width:210px;">
+                    <option value="">Select your format</option>
+                    <option value="0.7.15480/magento-sample-data-0.7.15480.zip" class="zip">sample-data-0.7.15480.zip (40,2 Mb)</option>
+                    <option value="0.7.15480/magento-sample-data-0.7.15480.tar.gz" class="tar.gz">sample-data-0.7.15480.tar.gz (39,8 Mb)</option>
+                    <option value="0.7.15480/magento-sample-data-0.7.15480.tar.bz2" class="tar.bz2">sample-data-0.7.15480.tar.bz2 (36,4 Mb)</option>
+                </select>
+                                &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                            </form>
+            </div>
+        </li>
+    </ul>
+    <h3 class="light-grey-head">Preview  0.7.14800</h3>
+    <ul class="release-list">
+        <li class="alt"><div class="col2-set">
+            <div class="col-1">
+                <strong>Preview  0.7.14800</strong> - Added January 4, 2008
+                &nbsp;<a href="http://www.magentocommerce.com/download/release_notes#Release%20Notes%20-%20Magento%20Preview%200.7.14800%20(January%204,%202008)" title="0.7.14800 Release Notes" class="release-icon">&nbsp;</a>
+            </div>
+            <div class="col-2">
+                <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads – Full Stable Release','Download – Archive');">
+                <select name="download_format" style="width:210px;">
+                    <option value="">Select your format</option>
+                    <option value="0.7.14800/magento-installer-0.7.14800.zip" class="zip">installer-0.7.14800.zip (2,9 Mb)</option>
+                    <option value="0.7.14800/magento-installer-0.7.14800.tar.gz" class="tar.gz">installer-0.7.14800.tar.gz (2,2 Mb)</option>
+                    <option value="0.7.14800/magento-installer-0.7.14800.tar.bz2" class="tar.bz2">installer-0.7.14800.tar.bz2 (1,6 Mb)</option>
+                    <option value="0.7.14800/magento-0.7.14800.zip" class="zip">magento-0.7.14800.zip (9,1 Mb)</option>
+                    <option value="0.7.14800/magento-0.7.14800.tar.gz" class="tar.gz">magento-0.7.14800.tar.gz (5,7 Mb)</option>
+                    <option value="0.7.14800/magento-0.7.14800.tar.bz2" class="tar.bz2">magento-0.7.14800.tar.bz2 (4,4 Mb)</option>
+                </select>
+                                &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                                </form>
+            </div>
+        </div></li>
+        <li class="col2-set release-additional-red">
+            <div class="col-1 sample-data-row">Sample Data<br /><small>(must be installed prior to the basic Magento Installation)</small></div>
+            <div class="col-2">
+                <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads – Full Stable Release','Download – Archive');">
+                <select name="download_format" style="width:210px;">
+                    <option value="">Select your format</option>
+                    <option value="0.7.14800/magento-sample-data-0.7.14800.zip" class="zip">sample-data-0.7.14800.zip (40,2 Mb)</option>
+                    <option value="0.7.14800/magento-sample-data-0.7.14800.tar.gz" class="tar.gz">sample-data-0.7.14800.tar.gz (39,8 Mb)</option>
+                    <option value="0.7.14800/magento-sample-data-0.7.14800.tar.bz2" class="tar.bz2">sample-data-0.7.14800.tar.bz2 (36,4 Mb)</option>
+                </select>
+                                &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                                </form>
+            </div>
+        </li>
+    </ul>
+    <h3 class="light-grey-head">Preview 0.6.14100</h3>
+    <ul class="release-list">
+        <li class="alt"><div class="col2-set">
+            <div class="col-1">
+                <strong>Preview 0.6.14100</strong> - Added December 4, 2007
+                &nbsp;<a href="http://www.magentocommerce.com/download/release_notes#Release%20Notes%20-%20Magento%20Preview%200.6.14100%20(December%204,%202007)" title="0.6.14100 Release Notes" class="release-icon">&nbsp;</a>
+            </div>
+            <div class="col-2">
+                <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads – Full Stable Release','Download – Archive');">
+                <select name="download_format" style="width:210px;">
+                    <option value="">Select your format</option>
+                    <option value="0.6.14100/light/magento-0.6.14100.zip" class="zip">light-magento-0.6.14100.zip (8,4 Mb)</option>
+                    <option value="0.6.14100/light/magento-0.6.14100.tar.gz" class="tar.gz">light-magento-0.6.14100.tar.gz (5,2 Mb)</option>
+                    <option value="0.6.14100/light/magento-0.6.14100.tar.bz2" class="tar.bz2">light-magento-0.6.14100.tar.bz2 (4,1 Mb)</option>
+                    <option value="0.6.14100/full/magento-0.6.14100.zip" class="zip">full-magento-0.6.14100.zip (48,5 Mb)</option>
+                    <option value="0.6.14100/full/magento-0.6.14100.tar.gz" class="tar.gz">full-magento-0.6.14100.tar.gz (45,0 Mb)</option>
+                    <option value="0.6.14100/full/magento-0.6.14100.tar.bz2" class="tar.bz2">full-magento-0.6.14100.tar.bz2 (40,5 Mb)</option>
+                </select>
+                                &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                                </form>
+            </div>
+        </div></li>
+    </ul>
+    <h3 class="light-grey-head">Preview 0.6.13700</h3>
+    <ul class="release-list">
+        <li class="alt"><div class="col2-set">
+            <div class="col-1">
+                <strong>Preview 0.6.13700</strong> - Added November 13, 2007
+                &nbsp;<a href="http://www.magentocommerce.com/download/release_notes#Release%20Notes%20-%20Magento%20Preview%200.6.13700%20(November%2013,%202007)" title="0.6.13700 Release Notes" class="release-icon">&nbsp;</a>
+            </div>
+            <div class="col-2">
+                <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads – Full Stable Release','Download – Archive');">
+                <select name="download_format" style="width:210px;">
+                    <option value="">Select your format</option>
+                    <option value="0.6.13700/light/magento-0.6.13700.zip" class="zip">light-magento-0.6.13700.zip (8,1 Mb)</option>
+                    <option value="0.6.13700/light/magento-0.6.13700.tar.gz" class="tar.gz">light-magento-0.6.13700.tar.gz (5,1 Mb)</option>
+                    <option value="0.6.13700/light/magento-0.6.13700.tar.bz2" class="tar.bz2">light-magento-0.6.13700.tar.bz2 (4,0 Mb)</option>
+                    <option value="0.6.13700/full/magento-0.6.13700.zip" class="zip">full-magento-0.6.13700.zip (48,2 Mb)</option>
+                    <option value="0.6.13700/full/magento-0.6.13700.tar.gz" class="tar.gz">full-magento-0.6.13700.tar.gz (44,9 Mb)</option>
+                    <option value="0.6.13700/full/magento-0.6.13700.tar.bz2" class="tar.bz2">full-magento-0.6.13700.tar.bz2 (40,4 Mb)</option>
+                </select>
+                                &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                                </form>
+            </div>
+        </div></li>
+    </ul>
+    <h3 class="light-grey-head">Preview 0.6.13160</h3>
+    <ul class="release-list">
+        <li class="alt"><div class="col2-set">
+            <div class="col-1">
+                <strong>Preview 0.6.13160</strong> - Added October 18, 2007
+                &nbsp;<a href="http://www.magentocommerce.com/download/release_notes#Release%20Notes%20-%20Magento%20Preview%200.6.13160%20(October%2018,%202007)" title="0.6.13160 Release Notes" class="release-icon">&nbsp;</a>
+            </div>
+            <div class="col-2">
+                <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads – Full Stable Release','Download – Archive');">
+                <select name="download_format" style="width:210px;">
+                    <option value="">Select your format</option>
+                    <option value="0.6.13160/light/magento-0.6.13160.zip" class="zip">light-magento-0.6.13160.zip (8,0 Mb)</option>
+                    <option value="0.6.13160/light/magento-0.6.13160.tar.gz" class="tar.gz">light-magento-0.6.13160.tar.gz (5,0 Mb)</option>
+                    <option value="0.6.13160/light/magento-0.6.13160.tar.bz2" class="tar.bz2">light-magento-0.6.13160.tar.bz2 (4,0 Mb)</option>
+                    <option value="0.6.13160/full/magento-0.6.13160.zip" class="zip">full-magento-0.6.13160.zip (48,1 Mb)</option>
+                    <option value="0.6.13160/full/magento-0.6.13160.tar.gz" class="tar.gz">full-magento-0.6.13160.tar.gz (44,9 Mb)</option>
+                    <option value="0.6.13160/full/magento-0.6.13160.tar.bz2" class="tar.bz2">full-magento-0.6.13160.tar.bz2 (40,5 Mb)</option>
+                </select>
+                                &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                                </form>
+            </div>
+        </div></li>
+    </ul>
+    <h3 class="light-grey-head">Preview 0.6.13110</h3>
+    <ul class="release-list">
+        <li class="alt"><div class="col2-set">
+            <div class="col-1">
+                <strong>Preview 0.6.13110</strong> - Added October 15, 2007
+                &nbsp;<a href="http://www.magentocommerce.com/download/release_notes#Release%20Notes%20-%20Magento%20Preview%200.6.13110%20(October%2015,%202007)" title="0.6.13110 Release Notes" class="release-icon">&nbsp;</a>
+            </div>
+            <div class="col-2">
+                <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads – Full Stable Release','Download – Archive');">
+                <select name="download_format" style="width:210px;">
+                    <option value="">Select your format</option>
+                    <option value="0.6.13110/light/magento-0.6.13110.zip" class="zip">light-magento-0.6.13110.zip (8,0 Mb)</option>
+                    <option value="0.6.13110/light/magento-0.6.13110.tar.gz" class="tar.gz">light-magento-0.6.13110.tar.gz (5,0 Mb)</option>
+                    <option value="0.6.13110/light/magento-0.6.13110.tar.bz2" class="tar.bz2">light-magento-0.6.13110.tar.bz2 (4,0 Mb)</option>
+                    <option value="0.6.13110/full/magento-0.6.13110.zip" class="zip">full-magento-0.6.13110.zip (48,1 Mb)</option>
+                    <option value="0.6.13110/full/magento-0.6.13110.tar.gz" class="tar.gz">full-magento-0.6.13110.tar.gz (44,9 Mb)</option>
+                    <option value="0.6.13110/full/magento-0.6.13110.tar.bz2" class="tar.bz2">full-magento-0.6.13110.tar.bz2 (40,5 Mb)</option>
+                </select>
+                                &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                                </form>
+            </div>
+        </div></li>
+    </ul>
+    <h3 class="light-grey-head">Preview 0.6.12840</h3>
+    <ul class="release-list">
+        <li class="alt"><div class="col2-set">
+            <div class="col-1">
+                <strong>Preview 0.6.12840</strong> - Added October 2, 2007
+            </div>
+            <div class="col-2">
+                <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads – Full Stable Release','Download – Archive');">
+                <select name="download_format" style="width:210px;">
+                    <option value="">Select your format</option>
+                    <option value="0.6.12840/light/magento-0.6.12840.zip" class="zip">light-magento-0.6.12840.zip (8,0 Mb)</option>
+                    <option value="0.6.12840/light/magento-0.6.12840.tar.gz" class="tar.gz">light-magento-0.6.12840.tar.gz (5,1 Mb)</option>
+                    <option value="0.6.12840/light/magento-0.6.12840.tar.bz2" class="tar.bz2">light-magento-0.6.12840.tar.bz2 (4,1 Mb)</option>
+                    <option value="0.6.12840/full/magento-0.6.12840.zip" class="zip">full-magento-0.6.12840.zip (50,0 Mb)</option>
+                    <option value="0.6.12840/full/magento-0.6.12840.tar.gz" class="tar.gz">full-magento-0.6.12840.tar.gz (46,8 Mb)</option>
+                    <option value="0.6.12840/full/magento-0.6.12840.tar.bz2" class="tar.bz2">full-magento-0.6.12840.tar.bz2 (42,7 Mb)</option>
+                </select>
+                                &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                                </form>
+            </div>
+        </div></li>
+    </ul>
+    <h3 class="light-grey-head">Preview 0.6.12510</h3>
+    <ul class="release-list">
+        <li class="alt"><div class="col2-set">
+            <div class="col-1">
+                <strong>Preview 0.6.12510</strong> - Added September 14, 2007
+            </div>
+            <div class="col-2">
+                <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads – Full Stable Release','Download – Archive');">
+                    <select name="download_format" style="width:210px;">
+                        <option value="">Select your format</option>
+                        <option value="0.6.12510/light/magento-0.6.12510.zip" class="zip">light-magento-0.6.12510.zip (6,3 Mb)</option>
+                        <option value="0.6.12510/light/magento-0.6.12510.tar.gz" class="tar.gz">light-magento-0.6.12510.tar.gz (3,6 Mb)</option>
+                        <option value="0.6.12510/light/magento-0.6.12510.tar.bz2" class="tar.bz2">light-magento-0.6.12510.tar.bz2 (3,1 Mb)</option>
+                        <option value="0.6.12510/full/magento-0.6.12510.zip" class="zip">full-magento-0.6.12510.zip (48,3 Mb)</option>
+                        <option value="0.6.12510/full/magento-0.6.12510.tar.gz" class="tar.gz">full-magento-0.6.12510.tar.gz (45,3 Mb)</option>
+                        <option value="0.6.12510/full/magento-0.6.12510.tar.bz2" class="tar.bz2">full-magento-0.6.12510.tar.bz2 (41,7 Mb)</option>
+                    </select>
+                                    &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                                </form>
+            </div>
+        </div></li>
+    </ul>
+    <h3 class="light-grey-head">Preview B1 0.6.12383</h3>
+    <ul class="release-list">
+        <li class="alt"><div class="col2-set">
+            <div class="col-1">
+                <strong>Preview B1 0.6.12383</strong> - Added August 31, 2007
+            </div>
+            <div class="col-2">
+                <form method="post" action="http://www.magentocommerce.com/download/get-started" onsubmit="trackDownload(this,'Downloads – Full Stable Release','Download – Archive');">
+                    <select name="download_format" style="width:210px;">
+                        <option value="">Select your format</option>
+                        <option value="0.6.12383/Magento-B1Preview-0.6.zip" class="zip">Magento-B1Preview-0.6.zip (58,7 Mb)</option>
+                        <option value="0.6.12383/Magento-B1Preview-0.6.tar.gz" class="tar.gz">Magento-B1Preview-0.6.tar.gz (49,2 Mb)</option>
+                    </select>
+                                    &nbsp;&nbsp;<a href="#" rel="width:794,height:443,ajax:true" class="download-link">Download</a>
+                                </form>
+            </div>
+        </div></li>
+    </ul><div class="clear"></div>
+    <br/>
+</div>
+        </div>
+        <div id="download-getstarted" style="display:none;" class="down-getstart">
+            <div class="down-getstart">
+    <div class="col2-set">
+        <div class="col-1">
+            <div class="get-started-box">
+                <h3>Installation Resources</h3>
+                <div class="get-started-content">
+                    <ul>
+                        <li><a href="http://www.magentocommerce.com/wiki/magento_installation_guide">&raquo; Magento Installation Guide</a></li>
+                        <li><a href="http://www.magentocommerce.com/knowledge-base/entry/installing-sample-data-archive-for-magento-112">&raquo; Installing Sample Data</a></li>
+                        <li><a href="http://www.magentocommerce.com/wiki/groups/227/installing_magento_via_shell_ssh">&raquo; Installing Magento via SSH</a></li>
+                        <li><a href="http://www.magentocommerce.com/wiki/general/installing_on_windows_with_xampp_and_wamp">&raquo; Installing on Windows with XAMPP and WAMP</a></li>
+                        <li><a href="http://www.magentocommerce.com/wiki/installing-magento-on-mac-os-x-server-10-4-9">&raquo; Installing Magento on Mac OS X Server 10.4.9</a></li>
+                    </ul><br/>
+                    For more installation tutorials for a specific host or in other languages please visit <a href="http://www.magentocommerce.com/boards/viewthread/1647/">this forum thread</a>
+                </div>
+            </div>
+            <div class="get-started-box">
+                <h3><a href="http://www.magentocommerce.com/design_guide">Designer's Guide</a></h3>
+                <div class="get-started-content">
+                    <p>This documentation will help you learn and expand your knowledge of the structural, conceptual workings and methods of designing for Magento. Basically, everything you need to know in order to create a custom theme for your store.</p>
+                    <a href="http://www.magentocommerce.com/design_guide">&raquo; Read Magento Designer’s Guide</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-2">
+            <div class="get-started-box">
+                <h3><a href="http://www.magentocommerce.com/system-requirements">System Requirements</a></h3>
+                <div class="get-started-content">
+                    <p>Prior to installation we recommend that you review <a href="http://www.magentocommerce.com/system-requirements">Magento's System Requirements</a> in order to check your environments <a href="http://www.magentocommerce.com/knowledge-base/entry/how-do-i-know-if-my-server-is-compatible-with-magento">compatibiltiy with this platform</a>.</p>
+                </div>
+            </div>
+            <div class="get-started-box">
+                <h3><a href="http://www.magentocommerce.com/resources/magento-user-guide">Magento User Guide</a></h3>
+                <div class="get-started-content">
+                    <p>This Guide is here to help you through the process of setting up your store. The User Guide begins with an introduction to installing and configuring the basic settings for your store, walks through the steps to configure more advanced settings, setting up your payment modules, creating and editing categories and products and much more.</p>
+                    <a href="http://www.magentocommerce.com/resources/magento-user-guide">&raquo; Download the Magento User Guide</a>
+                </div>
+            </div>
+            
+            <div class="get-started-box">
+                <h3><a href="#tag" id="tag">Test Automation Framework</a></h3>
+                <div class="get-started-content">
+                    <p>
+                        Developing tests with Magento Test Automation Framework (TAF) is simple. <br/>Four simple steps to get started:
+                    </p>
+                    <ol style="margin-left:30px;">
+                        <li>
+                            Install git: If you don't have it installed already, make sure you download and install git from: 
+                            <br/>
+                            <a target="_blank" href="http://git-scm.com/download"> http://git-scm.com/download</a>
+                        </li>
+                        <li>
+                            Execute the following command from the command prompt:
+                            <br/>
+                            <b>git clone https://github.com/magento/taf DIR_for_CLONE</b>
+                         </li>
+                        <li>Review the installation instructions at: <a target="_blank" href="http://www.magentocommerce.com/images/uploads/download/MagentoTestAutomationFrameworkInstallationGuide.pdf">[pdf]</a><!--, <a href="http://www.magentocommerce.com/">[wiki]</a></li>-->
+                        <li>Before developing tests, make sure to review the User Manual <a target="_blank" href="http://www.magentocommerce.com/images/uploads/download/MagentoTestAutomationFrameworkUsersGuide.pdf">[pdf]</a><!--, <a href="http://www.magentocommerce.com/">[wiki]</a></li>-->
+                    </ol>
+                </div>
+            </div>
+        </div>
+    </div><br/>
+    <!--div class="col2-set">
+        <div class="col-1">
+            <h3><a href="http://docs.magentocommerce.com/">Technical Docs</a></h3>
+            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus ac turpis id est vehicula facilisis.</p>
+        </div>
+        <div class="col-2">
+            <h3><a href="http://www.magentocommerce.com/boards">Community Forums</a></h3>
+            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Phasellus ac turpis id est vehicula facilisis.</p>
+        </div>
+    </div><br/-->
+    <div class="col2-set recommended-articles">
+        <div class="col-1">
+            <h4>Recommended Wiki Articles</h4>
+            <ul class="generic-note-list">
+                <li><a href="http://www.magentocommerce.com/wiki/how-to/create-payment-method-module">How to Create a Payment Module</a></li>
+                <li><a href="http://www.magentocommerce.com/wiki/how-to/create-shipping-method-module">How to Create a Shipping Module</a></li>
+                <li><a href="http://www.magentocommerce.com/wiki/groups/174/changing_and_customizing_magento_code">Changing and Customizing Magento Code</a></li>
+                <li><a href="http://www.magentocommerce.com/wiki/changing_the_default_logo.gif">How to Change the Default Logo</a></li>
+                <li><a href="http://www.magentocommerce.com/wiki/how_to_setup_a_cron_job">How to Set a Cron Job</a></li>
+                <li><a href="http://www.magentocommerce.com/wiki/how_to_use_magentoconnect">How to Use MagentoConnect</a></li>
+                <li><a href="http://www.magentocommerce.com/wiki/upgrading_magento">Upgrading Magento</a></li>
+            </ul>
+        </div>
+        <div class="col-2 download-foot-links">
+            <h4>Recommended Screencasts</h4>
+            <ul class="screen-list">
+                <li><a href="http://www.magentocommerce.com/media/screencasts/configuring-tier-pricing/view">Configuring Tier Pricing</a></li>
+                <li><a href="http://www.magentocommerce.com/media/screencasts/designers-guide-1/view">Designer’s Guide: Creating Themes</a></li>
+                <li><a href="http://www.magentocommerce.com/media/screencasts/data-exporting/view">Magento DataFlow</a></li>
+                <li><a href="http://www.magentocommerce.com/media/screencasts/working-with-paypal/view">Working with Paypal</a></li>
+                <li><a href="http://www.magentocommerce.com/media/screencasts/currency/view">Using International Currency</a></li>
+                <li><a href="http://www.magentocommerce.com/media/screencasts/landing-pages/view">Creating Static Pages</a></li>
+                <li><a href="http://www.magentocommerce.com/magento-on-the-fly/magento-bundle-11/">Bundle / Kitting in Magento 1.1</a></li>
+            </ul>
+        </div>
+    </div><div class="clear"></div>
+    <br/>
+</div>
+        </div>
+    </div></div>
+</div>   
+<a href="http://www.magentocommerce.com/download/login_form" id="rb1" rel="width:794,height:443,ajax:true" class="rb"></a>
+<script type="text/javascript">
+    var activeForm = false;
+    var registerBox = {};
+    window.addEvent('domready', function(){
+        registerBox = new MultiBox('rb', {useOverlay:true,showNumbers:false,showControls:false,openFromLink:false});
+        var downloadLinks = $$('.download-link');
+        downloadLinks.each(function(a){
+            a.href = 'http://www.magentocommerce.com/download/login_form';
+            a.addEvent('click', function(e){
+                new Event(e).stop();
+                var form = $(a).getParent('form');
+                if(checkDownloadSelect(form)){
+                    registerBox.open($('rb1'));
+                    activeForm = form;
+                }
+            });
+        });
+    });
+    function downloadMagento(){
+        registerBox.close();
+        this.activeForm.onsubmit();
+        this.activeForm.submit();
+    }
+</script>
+<script type="text/javascript">
+var domainy = location.protocol == "https:" ? 
+"https://leads.demandbase.com" : "http://leads.demandbase.com";
+document.write(unescape("%3Cscript src='" +
+ domainy +"/66558084.js' type='text/javascript'%3E%3C/script%3E"));</script>
+<noscript><p>
+<img alt="Demandbase Connect" width="1" height="1"
+ src="http://leads.demandbase.com/66558084ns.gif" />
+</p></noscript>
+<noscript><p><a href="http://www.demandbase.com">
+<img src="http://www.demandbase.com/images/stream/demandbase.gif" 
+alt="Demandbase" width="1" height="1"></a></p></noscript>
+<div class="col-collateral">
+<div class="r-menu-border">
+	<h4>Download</h4>
+	<ul class="section-nav">
+		<li class="on"><a href="http://www.magentocommerce.com/download">Download Magento</a>
+		<li><a href="http://www.magentocommerce.com/svn">SVN</a></li>
+		<li ><a href="http://www.magentocommerce.com/download/release_notes">Release Notes</a></li>
+                <li class="last"><a href="http://www.magentocommerce.com/download/diff">Diff Files</a></li>
+		
+	</ul>
+</div>
+<!-- p><a href="http://www.magentocommerce.com/services/professional-services"><img src="http://www.magentocommerce.com/img/callout_prof_service.jpg" border='0'  alt="Professional Services from the Magento Team"  title="Professional Services from the Magento Team" /></a></p -->
+<p><a href="http://www.magentocommerce.com/go/"><img src="http://www.magentocommerce.com/img/go/go-col-banner.jpg" alt="A Hosted Platform with World-Class Support"/></a></p>
+<div class="r-menu-border" style="padding:0;">
+    	<div class="r-menu-nowhiring">
+	<div class="head">
+		<h4 class="no-show">Magento Job Board - Some sort of tag line goes here</h4>
+		<h5>Latest Posts<span class="pipe">|</span> <a href="http://www.magentocommerce.com/jobs">View all Jobs</a></h5>
+	</div>
+	<ul>	
+		<li class="first"><a href="http://www.magentocommerce.com/job/view/1030">Magento Developer for website and e commerce- part time</a><br/><small><strong>Mary Esses</strong></small> - <small>New York, USA</small><br/><small class="date">Posted 1 day ago</small></li>
+	
+		<li><a href="http://www.magentocommerce.com/job/view/1028">Magento Designer/Front End Developer</a><br/><small><strong>Withheld</strong></small> - <small>Essex, UK</small><br/><small class="date">Posted 4 days ago</small></li>
+	
+		<li class="last"><a href="http://www.magentocommerce.com/job/view/1027">Magento Developer/Webmaster Contract Position</a><br/><small><strong>Black Cat Plus</strong></small> - <small>Rochester, NY  USA</small><br/><small class="date">Posted 6 days ago</small></li>
+	
+	</ul> 
+</div> 
+</div>
+</div>
+</div><br/>
+
+<!-- ClickTale Bottom part -->
+<div id="ClickTaleDiv" style="display: none;"></div>
+<script src="http://s.clicktale.net/WRb.js" type="text/javascript"></script>
+<script type="text/javascript">
+if(typeof ClickTale=='function') ClickTale(24318,0.0018);
+</script>
+<!-- ClickTale end of Bottom part -->
+
+<!-- 
+<div class="sales-call" style="margin-top:20px; padding:4px 15px; background:#7f7f7f; color:#fff; font-size:14px; text-align:center; "><strong style="text-transform:uppercase; color:#c2c2c2;">Sales:</strong> Call <strong>877.832.5289</strong> (North America) <strong>310.295.4144</strong> (International)</div>
+-->
+ 
+    <div class="footer" id="footer" style="margin-top:0">
+        <dl>
+            <dd class="newsletter">
+                <h3>Magento Newsletter</h3>
+                <span>Subscribe to our newsletter and keep up with the latest Magento news and events.</span>
+                <form method="post" enctype="application/x-www-form-urlencoded" action="http://info.magento.com/index.php/leadCapture/save" id="mktForm_1006" name="mktForm_1006">
+                   
+                    <input class="input-topbg" name="Email" id="Email" type='text' value="Enter your email address"  maxlength='255' tabIndex='1' onfocus="if(this.value==this.defaultValue)this.value='';" onblur="if(this.value=='')this.value=this.defaultValue;" />
+                    <button type="submit" class="form-btn">Subscribe</button>
+                    
+                     <span style="display:none;"><input type="text" name="_marketo_comments" value="" /></span>
+					  <input type="hidden" name="lpId" value="-1" />
+					  <input type="hidden" name="subId" value="36" />
+					  <input type="hidden" name="kw" value="" />
+					  <input type="hidden" name="cr" value="" />
+					  <input type="hidden" name="searchstr" value="" />
+					  <input type="hidden" name="lpurl" value="http://na-j.marketo.com/lp/magentocommerce/CustomerNewsletterSubscription.html?cr={creative}&kw={keyword}" />
+
+					  <input type="hidden" name="formid" value="1006" />
+					  <input type="hidden" name="returnURL" value="http://www.magentocommerce.com/" />
+					  <input type="hidden" name="retURL" value="http://www.magentocommerce.com/" />
+					  <input type="hidden" name="_mkt_disp" value="return" />
+					   <input type="hidden" name="_mkt_trk" value="" />
+				</form>
+            </dd>
+            <dd class="foot-menu">
+                <ul>
+                    <li><a href="http://www.magentocommerce.com/company/">Company</a></li>
+                    <li><a href="http://www.magentocommerce.com/sitemap/">Sitemap</a></li>
+                    <li><a href="http://www.magentocommerce.com/services/">Services</a></li>
+                    <li><a href="http://www.magentocommerce.com/license/">License/Trademark FAQ</a></li>
+                </ul>
+                <ul style="margin-right:0;">
+                    <li><a href="http://www.magentocommerce.com/company/contact-us/">Contact Us</a></li>
+                    <li><a href="http://www.magentocommerce.com/jobs/">Find a Magento Professional</a></li>
+                    <li><a href="http://www.magentocommerce.com/partners/">Partner with Magento</a></li>
+                    <li><a href="http://twitter.com/magento" target="_blank">Follow Magento on Twitter!</a></li>
+                </ul>
+            </dd>
+<dd class="promo">
+                <a href="http://www.imagineecommerce.com/?utm_source=magentocommerce&utm_medium=footer" title="Imagine eCommerce Conference"><img alt="Imagine eCommerce Conference" src="http://www.magentocommerce.com/img/imagine/Imagine_2012_footer_web2.jpg"></a>
+                <!-- a href="http://www.magentocommerce.com/blog/comments/magento-wins-best-of-open-source-enterprise-applications/"><img src="http://www.magentocommerce.com/images/uploads/bossie_winner.gif" alt="" style="margin-right:10px;"/></a><a href="http://www.magentocommerce.com/blog/comments/magento-wins-best-new-open-source-project/"><img src="http://www.magentocommerce.com/images/uploads/sf_winner2.gif" alt=""/></a -->
+                <!-- a href="http://www.magentocommerce.com/imagine" title="Magento Imagine eCommerce Conference"><img alt="Magento Imagine eCommerce Conference" src="http://www.magentocommerce.com/images/uploads/imagine-rss.png" /></a -->
+            </dd>
+        </dl><div class="clear"></div>
+    </div>
+    <div class="copy">
+<small class="f-left a-left">&copy; Copyright 2012 Magento Inc.<br/><a href="http://www.magentocommerce.com/company/privacy" class="small">Privacy Policy</a><span class="pipe">|</span><a href="http://www.magentocommerce.com/company/terms" class="small">Terms of Service</a></small>
+<small class="f-right a-right"><strong  style="text-transform:uppercase;">Magento Community Count</strong><br/><span class="tooltip-count" title="Represents all users who have a created a Magento account. Users may register more than once, and as a result, may have more than one account." ><strong>759023</strong> users</span><span class="pipe">|</span><strong>1106</strong> users currently online<span class="pipe">|</span><strong>507903</strong> forum posts</small></div><br/><br/><br/>
+</div>
+<!-- script type="text/javascript" src="http://www.magentocommerce.com/js/tracklinks.js"></script -->
+<script type="text/javascript">
+  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+  var pageTracker = _gat._getTracker("UA-165362-7");
+  pageTracker._initData();
+  pageTracker._trackPageview();
+</script>
+
+<script language="JavaScript" type="text/javascript">
+    function trackDownload(downloadForm,category,action){
+        for(i=0;i<downloadForm.length;i++){
+            var fileExtensions = {'zip':1,'tar.gz':2,'tar.bz2':3,'gz':4,'bz2':5};
+            if(downloadForm[i].type == 'select-one'){
+                pageTracker._trackPageview('/virtual/download-magento/'+downloadForm[i].value);
+
+                var currValue = downloadForm[i].value;
+                var selectedVersion = '';
+                var currVersion = currValue.split("/");
+                var fileExtension = 0;
+                selectedVersion = currVersion[0];
+                if(downloadForm[i].options[downloadForm[i].selectedIndex].className) fileExtension = fileExtensions[downloadForm[i].options[downloadForm[i].selectedIndex].className];
+                if(currVersion[0] == 'tools') selectedVersion = '1.0';
+                if(currVersion[0] == 'zend') selectedVersion = '1.0.0';
+
+                pageTracker._trackEvent(category, action, selectedVersion, fileExtension);
+            }
+        }
+    }
+    function trackEnRegister(but){pageTracker._trackPageview('/virtual/enterprise-register/'+but);}
+</script>
+<script type="text/javascript">
+    if(document.getElementById('a_varien')) document.getElementById('a_varien').target = "varien_external";
+    if(document.getElementById('a_zend')) document.getElementById('a_zend').target = "zend_external";
+    if(document.getElementById('a_varien')) document.getElementById('a_varien').target = "varien_external";
+</script>
+<input type="hidden" name="_mkt_trk" value="" id="mktTrkValue" />
+<script type="text/javascript">document.write('<scr'+'ipt type="text/javascript" src="' +document.location.protocol +'//munchkin.marketo.net/munchkin.js"><\/scr'+'ipt>');</script>
+<script type="text/javascript">
+if(!!window.jQuery){
+      $('.tooltip-count').poshytip({content:"Represents all users who have a created a Magento account. Users may register more than once, and as a result, may have more than one account.",showTimeout:0,hideTimeout:0,followCursor:true,fade:false,slide:false,className:'custom-tip'});
+} else {
+   var tip = new Tips($$('.tooltip-count'),{className:'custom'});
+}
+</script>
+<script type="text/javascript">
+    (function() {
+      function initMunchkin() {
+        Munchkin.init('397-EXO-877',  {cookieAnon: false});
+      }
+      var s = document.createElement('script');
+      s.type = 'text/javascript';
+      s.async = true;
+      s.src = document.location.protocol + '//munchkin.marketo.net/munchkin.js';
+      s.onreadystatechange = function() {
+        if (this.readyState == 'complete' || this.readyState == 'loaded') {initMunchkin();}
+      };
+      s.onload = initMunchkin;
+      document.getElementsByTagName('body')[0].appendChild(s);
+    })();
+</script>
+
+<img class="cdsso" src="http://go.magento.com/ee/sso/logout" style="width:1px; height:1px; display:none" />
+
+
+<a href="http://www.magentocommerce.com/html_elements/interstitial" id="ib1" class="ib" rel="width:360,height:450,ajax:true"></a>
+<script type="text/javascript" src="http://www.magentocommerce.com/js_new/interstitial.js?v1"></script>
+
+</body>
+</html>
